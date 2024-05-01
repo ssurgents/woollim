@@ -1,0 +1,4541 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Infinite)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssw-hard-01001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "다시돌아와 (Come Back Again)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tFirst Invasion\nTitle:\t\t\t다시돌아와 (Come Back Again)\nDuration:\t1:07.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t417\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "154d33080412e6ad11cb03c96847b164aa8823fe",
+				"url": "/sonolus/repository/LevelCover/154d33080412e6ad11cb03c96847b164aa8823fe"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e996b96e3321217be0cd01bdda67d4392cee40cf",
+				"url": "/sonolus/repository/LevelBgm/e996b96e3321217be0cd01bdda67d4392cee40cf"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c2df430915d8f8c8301f159bd74b519f3a65cfcc",
+				"url": "/sonolus/repository/LevelPreview/c2df430915d8f8c8301f159bd74b519f3a65cfcc"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f0936132082784347dbc3c35130be4acaf93ddec",
+				"url": "/sonolus/repository/LevelData/f0936132082784347dbc3c35130be4acaf93ddec"
+			}
+		},
+		{
+			"name": "ssw-hard-01002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "BTD (Before The Dawn)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tEvolution\nTitle:\t\t\tBTD (Before The Dawn)\nDuration:\t1:30.00\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t382\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e5c1f517d1bb7bbbd1f9683637e5277fe280ae10",
+				"url": "/sonolus/repository/LevelCover/e5c1f517d1bb7bbbd1f9683637e5277fe280ae10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "06c93ffe3faeb70038ae9652e90d6a8075ac2baf",
+				"url": "/sonolus/repository/LevelBgm/06c93ffe3faeb70038ae9652e90d6a8075ac2baf"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9ebc6226ae203d0ade1ad82639e9de5da15ce6e9",
+				"url": "/sonolus/repository/LevelPreview/9ebc6226ae203d0ade1ad82639e9de5da15ce6e9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4f8fa14f447d099be17c47469562c1eeb31d154f",
+				"url": "/sonolus/repository/LevelData/4f8fa14f447d099be17c47469562c1eeb31d154f"
+			}
+		},
+		{
+			"name": "ssw-hard-01003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "내꺼하자 (Be Mine)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tOver The Top\nTitle:\t\t\t내꺼하자 (Be Mine)\nDuration:\t1:45.69\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t466\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9068a5dd2c5d52bb2fa7a54816aa7106dc239b15",
+				"url": "/sonolus/repository/LevelCover/9068a5dd2c5d52bb2fa7a54816aa7106dc239b15"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e6daed3e4a35390b239ef47911090706072b5f90",
+				"url": "/sonolus/repository/LevelBgm/e6daed3e4a35390b239ef47911090706072b5f90"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e33e721f6411afc43a0fd29d4ea07757b0b388e9",
+				"url": "/sonolus/repository/LevelPreview/e33e721f6411afc43a0fd29d4ea07757b0b388e9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6564f109bf38b1d8b462bfeae56d7d5c903d3d3e",
+				"url": "/sonolus/repository/LevelData/6564f109bf38b1d8b462bfeae56d7d5c903d3d3e"
+			}
+		},
+		{
+			"name": "ssw-hard-01004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Paradise"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tParadise\nTitle:\t\t\tParadise\nDuration:\t1:47.10\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t491\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "31ded635c79bc5dbbd6324957485239160048e90",
+				"url": "/sonolus/repository/LevelCover/31ded635c79bc5dbbd6324957485239160048e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5a252217bce095d1ceb1152f8496c5de99b7cb04",
+				"url": "/sonolus/repository/LevelBgm/5a252217bce095d1ceb1152f8496c5de99b7cb04"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8aba7258fe0099a974ec0dc768b306f594e198e6",
+				"url": "/sonolus/repository/LevelPreview/8aba7258fe0099a974ec0dc768b306f594e198e6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "72d9349873501bf2d3055418af534db3883d745a",
+				"url": "/sonolus/repository/LevelData/72d9349873501bf2d3055418af534db3883d745a"
+			}
+		},
+		{
+			"name": "ssw-hard-01005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Man In Love (남자가 사랑할 때)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tNew Challenge\nTitle:\t\t\tMan In Love (남자가 사랑할 때)\nDuration:\t1:38.85\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t539\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c84ad037b77150622bff060d5621740efa4c1e94",
+				"url": "/sonolus/repository/LevelCover/c84ad037b77150622bff060d5621740efa4c1e94"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "79fdb2960cf0c341ea2f1f31aa881af6b8e6dd50",
+				"url": "/sonolus/repository/LevelBgm/79fdb2960cf0c341ea2f1f31aa881af6b8e6dd50"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "88ff1dd76880b6b712e69355b8572936f6320441",
+				"url": "/sonolus/repository/LevelPreview/88ff1dd76880b6b712e69355b8572936f6320441"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "add19bf3034bfc775e71c66b6b1dfdf4fbf7c56f",
+				"url": "/sonolus/repository/LevelData/add19bf3034bfc775e71c66b6b1dfdf4fbf7c56f"
+			}
+		},
+		{
+			"name": "ssw-hard-01006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Last Romeo"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tSeason 2\nTitle:\t\t\tLast Romeo\nDuration:\t1:30.99\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t466\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "770b1b1a480c5a72601ddb98b7976562abe238c4",
+				"url": "/sonolus/repository/LevelCover/770b1b1a480c5a72601ddb98b7976562abe238c4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4a5bbe3bf681ad58309548097b684db0f3145bae",
+				"url": "/sonolus/repository/LevelBgm/4a5bbe3bf681ad58309548097b684db0f3145bae"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d30d040e50a3619580aff3f39e66aa8c0497a61f",
+				"url": "/sonolus/repository/LevelPreview/d30d040e50a3619580aff3f39e66aa8c0497a61f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "47864977a44412c9a3ff5fb8de4fd8c52c995216",
+				"url": "/sonolus/repository/LevelData/47864977a44412c9a3ff5fb8de4fd8c52c995216"
+			}
+		},
+		{
+			"name": "ssw-hard-01007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Back"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tBe Back\nTitle:\t\t\tBack\nDuration:\t2:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t649\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "6780649b541df4a46d71e1fc2dbdf50a6f869ff5",
+				"url": "/sonolus/repository/LevelCover/6780649b541df4a46d71e1fc2dbdf50a6f869ff5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "96232a30051b967e9d0bd906c9df29f385b30ad4",
+				"url": "/sonolus/repository/LevelBgm/96232a30051b967e9d0bd906c9df29f385b30ad4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "dc77b3628f99c862f57c6c84179f218948fff3fd",
+				"url": "/sonolus/repository/LevelPreview/dc77b3628f99c862f57c6c84179f218948fff3fd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "05d9c76371afe1a36bf97711a200a73da7000a93",
+				"url": "/sonolus/repository/LevelData/05d9c76371afe1a36bf97711a200a73da7000a93"
+			}
+		},
+		{
+			"name": "ssw-hard-01008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Bad"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tReality\nTitle:\t\t\tBad\nDuration:\t1:34.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t692\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e0fc27e3611abed62d567c18002b32b6d2e40744",
+				"url": "/sonolus/repository/LevelCover/e0fc27e3611abed62d567c18002b32b6d2e40744"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a9ab9fe1e63cd12e395c2c2ac828f696a1a0a45c",
+				"url": "/sonolus/repository/LevelBgm/a9ab9fe1e63cd12e395c2c2ac828f696a1a0a45c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1996ac5eb73e7df1b149cd968f782629ac30d64d",
+				"url": "/sonolus/repository/LevelPreview/1996ac5eb73e7df1b149cd968f782629ac30d64d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "966abad6e2f1b35d38a27f3cd68f65934acdcb45",
+				"url": "/sonolus/repository/LevelData/966abad6e2f1b35d38a27f3cd68f65934acdcb45"
+			}
+		},
+		{
+			"name": "ssw-hard-01009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Tell Me"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\tTell Me\nDuration:\t1:58.91\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t584\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "81234bc5ff19e1b9e38a55614a2772ee2e89868b",
+				"url": "/sonolus/repository/LevelBgm/81234bc5ff19e1b9e38a55614a2772ee2e89868b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "56c0b20d27a68d6c8f100bad4c2535593afccb4b",
+				"url": "/sonolus/repository/LevelPreview/56c0b20d27a68d6c8f100bad4c2535593afccb4b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0b8c7a0c294400dfa14a443fc6aa760cf8a77324",
+				"url": "/sonolus/repository/LevelData/0b8c7a0c294400dfa14a443fc6aa760cf8a77324"
+			}
+		},
+		{
+			"name": "ssw-hard-01010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Synchronize"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\tSynchronize\nDuration:\t1:38.77\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t447\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d41ee951ae1de7fc381df72e6294a250e8ad788a",
+				"url": "/sonolus/repository/LevelBgm/d41ee951ae1de7fc381df72e6294a250e8ad788a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5091ebfbd96851afb2af6048593c8104f9019c84",
+				"url": "/sonolus/repository/LevelPreview/5091ebfbd96851afb2af6048593c8104f9019c84"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "65210e4c9e2f01d58cb4ce28b2db4391d8ac8049",
+				"url": "/sonolus/repository/LevelData/65210e4c9e2f01d58cb4ce28b2db4391d8ac8049"
+			}
+		},
+		{
+			"name": "ssw-hard-01011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "왜 날 (Why me)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\t왜 날 (Why me)\nDuration:\t2:02.54\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t499\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7da142d001ec2a2c5bfda13455d1c7db04729fa7",
+				"url": "/sonolus/repository/LevelBgm/7da142d001ec2a2c5bfda13455d1c7db04729fa7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "07eff9b5aae8651075173f89849e202339795d9e",
+				"url": "/sonolus/repository/LevelPreview/07eff9b5aae8651075173f89849e202339795d9e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "437f14893b0088ba541d2b545858afde89cacfe2",
+				"url": "/sonolus/repository/LevelData/437f14893b0088ba541d2b545858afde89cacfe2"
+			}
+		},
+		{
+			"name": "ssw-hard-01012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "추격자 (The Chaser)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tInfinitize\nTitle:\t\t\t추격자 (The Chaser)\nDuration:\t1:27.88\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t644\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01012"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e141ff0037173dbdf4bfa7bd33351316e29fbcd7",
+				"url": "/sonolus/repository/LevelCover/e141ff0037173dbdf4bfa7bd33351316e29fbcd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "326decd0c94f5f0ea86f0c19150923174af0bb05",
+				"url": "/sonolus/repository/LevelBgm/326decd0c94f5f0ea86f0c19150923174af0bb05"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "50ef925333fdf977dfade26d1bd47de89b01cfe3",
+				"url": "/sonolus/repository/LevelPreview/50ef925333fdf977dfade26d1bd47de89b01cfe3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "819edef30e30e9358365078bbe3bd47fba0a9eaa",
+				"url": "/sonolus/repository/LevelData/819edef30e30e9358365078bbe3bd47fba0a9eaa"
+			}
+		},
+		{
+			"name": "ssw-hard-01013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Destiny"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tDestiny\nTitle:\t\t\tDestiny\nDuration:\t1:55.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t653\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01013"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "abbfa6e0b4d622ecb4ff4fc10fbb23b6576cf69e",
+				"url": "/sonolus/repository/LevelCover/abbfa6e0b4d622ecb4ff4fc10fbb23b6576cf69e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "13fbb300a9e060bd3cbdf96a5db62d001a1046da",
+				"url": "/sonolus/repository/LevelBgm/13fbb300a9e060bd3cbdf96a5db62d001a1046da"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "46dfa7b66f2a9e9e4b6fa6300e8e20271e529fed",
+				"url": "/sonolus/repository/LevelPreview/46dfa7b66f2a9e9e4b6fa6300e8e20271e529fed"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3779463b27bee12fbfcea72ef765aa39308bb2f6",
+				"url": "/sonolus/repository/LevelData/3779463b27bee12fbfcea72ef765aa39308bb2f6"
+			}
+		},
+		{
+			"name": "ssw-hard-01014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Inception"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tDestiny\nTitle:\t\t\tInception\nDuration:\t1:22.50\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t445\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01013"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "abbfa6e0b4d622ecb4ff4fc10fbb23b6576cf69e",
+				"url": "/sonolus/repository/LevelCover/abbfa6e0b4d622ecb4ff4fc10fbb23b6576cf69e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c9f607c9890eee2b80dfcd8a464ccfd09a7461e8",
+				"url": "/sonolus/repository/LevelBgm/c9f607c9890eee2b80dfcd8a464ccfd09a7461e8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0c79ff43b85dc86b05a7d00449a9c32709be44f1",
+				"url": "/sonolus/repository/LevelPreview/0c79ff43b85dc86b05a7d00449a9c32709be44f1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e0f361e861fd8fd9e53031aa25d9f058fdfb8476",
+				"url": "/sonolus/repository/LevelData/e0f361e861fd8fd9e53031aa25d9f058fdfb8476"
+			}
+		},
+		{
+			"name": "ssw-hard-01015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Nothing's Over"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tInspirit\nTitle:\t\t\tNothing's Over\nDuration:\t1:25.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t488\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "fb1a19a021da8ff5d0ec6784b4e08ee30aac8248",
+				"url": "/sonolus/repository/LevelCover/fb1a19a021da8ff5d0ec6784b4e08ee30aac8248"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a23c124532ba6826f708c1a407c04b0c187bd53c",
+				"url": "/sonolus/repository/LevelBgm/a23c124532ba6826f708c1a407c04b0c187bd53c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d014a5c994f1da0a324f6562d6a4bb9c9d875599",
+				"url": "/sonolus/repository/LevelPreview/d014a5c994f1da0a324f6562d6a4bb9c9d875599"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eaf2359905174f55211b550f0d6772ec2570d9a9",
+				"url": "/sonolus/repository/LevelData/eaf2359905174f55211b550f0d6772ec2570d9a9"
+			}
+		},
+		{
+			"name": "ssw-hard-01016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Cover Girl"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tParadise\nTitle:\t\t\tCover Girl\nDuration:\t1:39.13\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t813\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "31ded635c79bc5dbbd6324957485239160048e90",
+				"url": "/sonolus/repository/LevelCover/31ded635c79bc5dbbd6324957485239160048e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0b649c73749f598472b1963a58b72ed6cacbacb9",
+				"url": "/sonolus/repository/LevelBgm/0b649c73749f598472b1963a58b72ed6cacbacb9"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "06df689b7f0b9d5d643ba00e7858d8208d6bfacc",
+				"url": "/sonolus/repository/LevelPreview/06df689b7f0b9d5d643ba00e7858d8208d6bfacc"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "93dc42dc1c3ad7b529912ab582dd0850be48182b",
+				"url": "/sonolus/repository/LevelData/93dc42dc1c3ad7b529912ab582dd0850be48182b"
+			}
+		},
+		{
+			"name": "ssw-hard-01017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "태풍 (The Eye)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tINFINITE ONLY\nTitle:\t\t\t태풍 (The Eye)\nDuration:\t2:29.49\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t1132\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01017"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0",
+				"url": "/sonolus/repository/LevelCover/c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ce7e6eef209766a6328aeab0b2626756a543fde6",
+				"url": "/sonolus/repository/LevelBgm/ce7e6eef209766a6328aeab0b2626756a543fde6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b3e7c773c1b9b6e360c22fc256d5c49ebffc633c",
+				"url": "/sonolus/repository/LevelPreview/b3e7c773c1b9b6e360c22fc256d5c49ebffc633c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d78c6dc9c53fd5f9410a413d08644d77a3292c42",
+				"url": "/sonolus/repository/LevelData/d78c6dc9c53fd5f9410a413d08644d77a3292c42"
+			}
+		},
+		{
+			"name": "ssw-hard-01018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Because (Sungkyu Solo)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tOver The Top\nTitle:\t\t\tBecause (Sungkyu Solo)\nDuration:\t2:16.37\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t730\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9068a5dd2c5d52bb2fa7a54816aa7106dc239b15",
+				"url": "/sonolus/repository/LevelCover/9068a5dd2c5d52bb2fa7a54816aa7106dc239b15"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b6ef0c3306180e05e21b2d71c84c7ed4ab9200fc",
+				"url": "/sonolus/repository/LevelBgm/b6ef0c3306180e05e21b2d71c84c7ed4ab9200fc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "eee70e7ed674b9acf1eefc5388793543fccdb565",
+				"url": "/sonolus/repository/LevelPreview/eee70e7ed674b9acf1eefc5388793543fccdb565"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "670324d0482ad5ff16b6a18b8965250f2769e582",
+				"url": "/sonolus/repository/LevelData/670324d0482ad5ff16b6a18b8965250f2769e582"
+			}
+		},
+		{
+			"name": "ssw-hard-01019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "이보다 좋을 순 없다 (As Good As It Gets)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tNew Challenge\nTitle:\t\t\t이보다 좋을 순 없다 (As Good As It Gets)\nDuration:\t1:26.51\nBPM:\t\t129\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t441\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c84ad037b77150622bff060d5621740efa4c1e94",
+				"url": "/sonolus/repository/LevelCover/c84ad037b77150622bff060d5621740efa4c1e94"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1b1c5b734c64e1524c1ae25e6f3411aefc735511",
+				"url": "/sonolus/repository/LevelBgm/1b1c5b734c64e1524c1ae25e6f3411aefc735511"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b4f6371856439708c527d1f51212bb533e875cbc",
+				"url": "/sonolus/repository/LevelPreview/b4f6371856439708c527d1f51212bb533e875cbc"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3d86bf3cf6356b846d919020c3673ef034883403",
+				"url": "/sonolus/repository/LevelData/3d86bf3cf6356b846d919020c3673ef034883403"
+			}
+		},
+		{
+			"name": "ssw-hard-01020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Moonlight"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tReality\nTitle:\t\t\tMoonlight\nDuration:\t1:39.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t570\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e0fc27e3611abed62d567c18002b32b6d2e40744",
+				"url": "/sonolus/repository/LevelCover/e0fc27e3611abed62d567c18002b32b6d2e40744"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "755f52970b9c6657ca2f0b96f6e5396897d93ef9",
+				"url": "/sonolus/repository/LevelBgm/755f52970b9c6657ca2f0b96f6e5396897d93ef9"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fa286950a7448b7d5ca79807e92186d18c1bfa52",
+				"url": "/sonolus/repository/LevelPreview/fa286950a7448b7d5ca79807e92186d18c1bfa52"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "40bd33aafd9fbfbfc93c15a51bf8658de1d39ec6",
+				"url": "/sonolus/repository/LevelData/40bd33aafd9fbfbfc93c15a51bf8658de1d39ec6"
+			}
+		},
+		{
+			"name": "ssw-hard-01021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Feel So Bad"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tInfinitize\nTitle:\t\t\tFeel So Bad\nDuration:\t1:18.00\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t394\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01012"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e141ff0037173dbdf4bfa7bd33351316e29fbcd7",
+				"url": "/sonolus/repository/LevelCover/e141ff0037173dbdf4bfa7bd33351316e29fbcd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "24ad70da2e58caa3e4e1b972cef33ecf5f582e53",
+				"url": "/sonolus/repository/LevelBgm/24ad70da2e58caa3e4e1b972cef33ecf5f582e53"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d203039058ff7441f634953ffb2e3d8a93c10a5e",
+				"url": "/sonolus/repository/LevelPreview/d203039058ff7441f634953ffb2e3d8a93c10a5e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bb58145061b0f1c404832dac3d7aca9a8c2462b4",
+				"url": "/sonolus/repository/LevelData/bb58145061b0f1c404832dac3d7aca9a8c2462b4"
+			}
+		},
+		{
+			"name": "ssw-hard-01022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Follow Me"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tSeason 2\nTitle:\t\t\tFollow Me\nDuration:\t1:31.72\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t467\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "770b1b1a480c5a72601ddb98b7976562abe238c4",
+				"url": "/sonolus/repository/LevelCover/770b1b1a480c5a72601ddb98b7976562abe238c4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "fa62e91fb5bd995adf1a9a870d66b36b845649aa",
+				"url": "/sonolus/repository/LevelBgm/fa62e91fb5bd995adf1a9a870d66b36b845649aa"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "12b3dd718efc726529e1e9be2fc1a5756ee50e7d",
+				"url": "/sonolus/repository/LevelPreview/12b3dd718efc726529e1e9be2fc1a5756ee50e7d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0f5b5fe7b1d1a33d914b25812ccd5a09db46e185",
+				"url": "/sonolus/repository/LevelData/0f5b5fe7b1d1a33d914b25812ccd5a09db46e185"
+			}
+		},
+		{
+			"name": "ssw-hard-01023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "AIR"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tINFINITE ONLY\nTitle:\t\t\tAIR\nDuration:\t1:50.17\nBPM:\t\t116\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t698\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01017"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0",
+				"url": "/sonolus/repository/LevelCover/c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "53452db6ab6f18d9cbb21aeeca329b0451c28a66",
+				"url": "/sonolus/repository/LevelBgm/53452db6ab6f18d9cbb21aeeca329b0451c28a66"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c75f47eebed2bb570eab8376b081f80d29f6aeb8",
+				"url": "/sonolus/repository/LevelPreview/c75f47eebed2bb570eab8376b081f80d29f6aeb8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1fcae635a024f968ab5902a25c96d4a91a41b036",
+				"url": "/sonolus/repository/LevelData/1fcae635a024f968ab5902a25c96d4a91a41b036"
+			}
+		},
+		{
+			"name": "ssw-hard-01024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "나란 사람 (Till I...)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tSeason 2\nTitle:\t\t\t나란 사람 (Till I...)\nDuration:\t1:38.11\nBPM:\t\t148\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t361\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "770b1b1a480c5a72601ddb98b7976562abe238c4",
+				"url": "/sonolus/repository/LevelCover/770b1b1a480c5a72601ddb98b7976562abe238c4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ce9200b186fd684d09dc997e55f0923188556587",
+				"url": "/sonolus/repository/LevelBgm/ce9200b186fd684d09dc997e55f0923188556587"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a66f9d9a20663088431d03cac97f7a8724da23c0",
+				"url": "/sonolus/repository/LevelPreview/a66f9d9a20663088431d03cac97f7a8724da23c0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a52acda583447c4f5d6a7c1449caf563ad443d74",
+				"url": "/sonolus/repository/LevelData/a52acda583447c4f5d6a7c1449caf563ad443d74"
+			}
+		},
+		{
+			"name": "ssw-hard-01025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "One Day"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tINFINITE ONLY\nTitle:\t\t\tOne Day\nDuration:\t1:41.06\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t440\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01017"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0",
+				"url": "/sonolus/repository/LevelCover/c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d0a558e7d88b018099d51462ffc07472b1831900",
+				"url": "/sonolus/repository/LevelBgm/d0a558e7d88b018099d51462ffc07472b1831900"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4453b2f37711ef13f23c16e72e9f2bd904811192",
+				"url": "/sonolus/repository/LevelPreview/4453b2f37711ef13f23c16e72e9f2bd904811192"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3fcb6c7a02e10c27179986e0908d2eaf39a1a4c4",
+				"url": "/sonolus/repository/LevelData/3fcb6c7a02e10c27179986e0908d2eaf39a1a4c4"
+			}
+		},
+		{
+			"name": "ssw-hard-01026",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "고마워 (Monologue)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tINFINITE ONLY\nTitle:\t\t\t고마워 (Monologue)\nDuration:\t2:01.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t548\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01017"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0",
+				"url": "/sonolus/repository/LevelCover/c0cf465a8a52e3ecce6588cc7d1dc61ce7b90bb0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3acfa39c45eefc69a888c9ef6670e2915d5b591a",
+				"url": "/sonolus/repository/LevelBgm/3acfa39c45eefc69a888c9ef6670e2915d5b591a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3889da19cc5d60a82115fb478f472f70231063c8",
+				"url": "/sonolus/repository/LevelPreview/3889da19cc5d60a82115fb478f472f70231063c8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ddec37a3d6e660d0b3920d8ba7c7fafd463e753c",
+				"url": "/sonolus/repository/LevelData/ddec37a3d6e660d0b3920d8ba7c7fafd463e753c"
+			}
+		},
+		{
+			"name": "ssw-hard-01027",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "No More"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\tNo More\nDuration:\t1:33.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t469\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c68dfac767cbee08103ba5152a5f4e11a8a8239e",
+				"url": "/sonolus/repository/LevelBgm/c68dfac767cbee08103ba5152a5f4e11a8a8239e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c3ac4035fed2b7c1b9c7cb215d1dc53f32ea941a",
+				"url": "/sonolus/repository/LevelPreview/c3ac4035fed2b7c1b9c7cb215d1dc53f32ea941a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6b5c78c1b5275b068e8aab1d29ad74b99cb913d7",
+				"url": "/sonolus/repository/LevelData/6b5c78c1b5275b068e8aab1d29ad74b99cb913d7"
+			}
+		},
+		{
+			"name": "ssw-hard-01028",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Wind"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\tWind\nDuration:\t2:02.86\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t717\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cabc5583de3996e324a726c63e4a42b0bf4bcb8a",
+				"url": "/sonolus/repository/LevelBgm/cabc5583de3996e324a726c63e4a42b0bf4bcb8a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3a141791d669e4d4a9be2cb227129b54cffed19c",
+				"url": "/sonolus/repository/LevelPreview/3a141791d669e4d4a9be2cb227129b54cffed19c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a02bc7d2f70eaa8b24e85290522046d2221c30d9",
+				"url": "/sonolus/repository/LevelData/a02bc7d2f70eaa8b24e85290522046d2221c30d9"
+			}
+		},
+		{
+			"name": "ssw-hard-01029",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I Hate"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tTOP SEED\nTitle:\t\t\tI Hate\nDuration:\t1:47.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t842\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "02b41604bdfb2bf89badde489abc3045f8c62451",
+				"url": "/sonolus/repository/LevelCover/02b41604bdfb2bf89badde489abc3045f8c62451"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "01d818d5e9a8fc5d744f2396dc2ca417d90ffe29",
+				"url": "/sonolus/repository/LevelBgm/01d818d5e9a8fc5d744f2396dc2ca417d90ffe29"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bda60b444e1b79a41349e7475993be2d8d63006e",
+				"url": "/sonolus/repository/LevelPreview/bda60b444e1b79a41349e7475993be2d8d63006e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "08db452ba02fbb2c42b076092bc3773c4a55c205",
+				"url": "/sonolus/repository/LevelData/08db452ba02fbb2c42b076092bc3773c4a55c205"
+			}
+		},
+		{
+			"name": "ssw-hard-01030",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "러브레터 (Love Letter)"
+			},
+			"artists": {
+				"en": "Infinite"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tInfinite\nAlbum:\t\tReality\nTitle:\t\t\t러브레터 (Love Letter)\nDuration:\t1:30.00\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t439\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e0fc27e3611abed62d567c18002b32b6d2e40744",
+				"url": "/sonolus/repository/LevelCover/e0fc27e3611abed62d567c18002b32b6d2e40744"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e963c331ab328e9bc7230eb968523c75206498f1",
+				"url": "/sonolus/repository/LevelBgm/e963c331ab328e9bc7230eb968523c75206498f1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "be10ec73bb42cd1b871754f61f688179375e9cb3",
+				"url": "/sonolus/repository/LevelPreview/be10ec73bb42cd1b871754f61f688179375e9cb3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "05a775d0c36219c4d1f170ea5b5ea7915403f26a",
+				"url": "/sonolus/repository/LevelData/05a775d0c36219c4d1f170ea5b5ea7915403f26a"
+			}
+		},
+		{
+			"name": "ssw-hard-02001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "60초 (60 sec)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tAnother Me\nTitle:\t\t\t60초 (60 sec)\nDuration:\t1:31.13\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t321\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8819cbf55660669e1e70cf98df9f1a32744bd465",
+				"url": "/sonolus/repository/LevelCover/8819cbf55660669e1e70cf98df9f1a32744bd465"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5be18237533418a1dc1536f1064d7ab5c3abf303",
+				"url": "/sonolus/repository/LevelBgm/5be18237533418a1dc1536f1064d7ab5c3abf303"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e6358e7e00b39e24da61cd21e6545eb7d9ffb4b2",
+				"url": "/sonolus/repository/LevelPreview/e6358e7e00b39e24da61cd21e6545eb7d9ffb4b2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "353444bdaab73fa871ca75c1e4afec03f5f62101",
+				"url": "/sonolus/repository/LevelData/353444bdaab73fa871ca75c1e4afec03f5f62101"
+			}
+		},
+		{
+			"name": "ssw-hard-02002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너여야만 해 (The Answer)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t27\nTitle:\t\t\t너여야만 해 (The Answer)\nDuration:\t1:16.37\nBPM:\t\t82.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t279\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "529d2645931947badd0a177f793570520bc346c0",
+				"url": "/sonolus/repository/LevelCover/529d2645931947badd0a177f793570520bc346c0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "42be06255ad073e9928d1f990b94293c167c9516",
+				"url": "/sonolus/repository/LevelBgm/42be06255ad073e9928d1f990b94293c167c9516"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "84f71b0f0f9e6c7c80970e5b56a3e715a97b82cd",
+				"url": "/sonolus/repository/LevelPreview/84f71b0f0f9e6c7c80970e5b56a3e715a97b82cd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e37a5801311b4d6e7d58e529dd35584aaefc3eec",
+				"url": "/sonolus/repository/LevelData/e37a5801311b4d6e7d58e529dd35584aaefc3eec"
+			}
+		},
+		{
+			"name": "ssw-hard-02003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "True Love"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t10 Stories\nTitle:\t\t\tTrue Love\nDuration:\t1:31.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t366\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b9d23c52286ba4851322276c597b6caef5fa49ad",
+				"url": "/sonolus/repository/LevelCover/b9d23c52286ba4851322276c597b6caef5fa49ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9828bf52fde9d77595e2c9f131efa0998e8dc4b0",
+				"url": "/sonolus/repository/LevelBgm/9828bf52fde9d77595e2c9f131efa0998e8dc4b0"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d6399df783de558cc768517c65f80e9479205d8d",
+				"url": "/sonolus/repository/LevelPreview/d6399df783de558cc768517c65f80e9479205d8d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1d5ff2c7d82d89e2bb894ee44207a76286ec48b7",
+				"url": "/sonolus/repository/LevelData/1d5ff2c7d82d89e2bb894ee44207a76286ec48b7"
+			}
+		},
+		{
+			"name": "ssw-hard-02004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Kontrol"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t27\nTitle:\t\t\tKontrol\nDuration:\t1:15.65\nBPM:\t\t138\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t320\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "529d2645931947badd0a177f793570520bc346c0",
+				"url": "/sonolus/repository/LevelCover/529d2645931947badd0a177f793570520bc346c0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aac540fad27143a3c26f585a65391ba930161f05",
+				"url": "/sonolus/repository/LevelBgm/aac540fad27143a3c26f585a65391ba930161f05"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "42338b766a4508b636aef7dfcdce12d2722a8e24",
+				"url": "/sonolus/repository/LevelPreview/42338b766a4508b636aef7dfcdce12d2722a8e24"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8be28c14534b4a3db4065f2f724e5dd22c37c3c4",
+				"url": "/sonolus/repository/LevelData/8be28c14534b4a3db4065f2f724e5dd22c37c3c4"
+			}
+		},
+		{
+			"name": "ssw-hard-02005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "눈물만 (Only Tears) (acoustic ver)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tAnother Me\nTitle:\t\t\t눈물만 (Only Tears) (acoustic ver)\nDuration:\t1:50.44\nBPM:\t\t138\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t403\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8819cbf55660669e1e70cf98df9f1a32744bd465",
+				"url": "/sonolus/repository/LevelCover/8819cbf55660669e1e70cf98df9f1a32744bd465"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "16b9f433b5ec0b22fcbdebe69d05288133bbe762",
+				"url": "/sonolus/repository/LevelBgm/16b9f433b5ec0b22fcbdebe69d05288133bbe762"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3e05f55b703e8ae49f753c04015bf661571e91b1",
+				"url": "/sonolus/repository/LevelPreview/3e05f55b703e8ae49f753c04015bf661571e91b1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7d341fadab04515a1549411b4b42b9457461faef",
+				"url": "/sonolus/repository/LevelData/7d341fadab04515a1549411b4b42b9457461faef"
+			}
+		},
+		{
+			"name": "ssw-hard-02006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I Need You"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tAnother Me\nTitle:\t\t\tI Need You\nDuration:\t1:45.00\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t426\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8819cbf55660669e1e70cf98df9f1a32744bd465",
+				"url": "/sonolus/repository/LevelCover/8819cbf55660669e1e70cf98df9f1a32744bd465"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b93935b97913f28edec54bfed1f8a29c980524af",
+				"url": "/sonolus/repository/LevelBgm/b93935b97913f28edec54bfed1f8a29c980524af"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "17a6af6e66fce29c77cf1e263601dbdc9104b777",
+				"url": "/sonolus/repository/LevelPreview/17a6af6e66fce29c77cf1e263601dbdc9104b777"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "49bcd5a257f7536dac4d4fd09cbeb81aecef61c1",
+				"url": "/sonolus/repository/LevelData/49bcd5a257f7536dac4d4fd09cbeb81aecef61c1"
+			}
+		},
+		{
+			"name": "ssw-hard-02007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I'm Cold"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tINSIDE ME\nTitle:\t\t\tI'm Cold\nDuration:\t1:35.85\nBPM:\t\t154\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t542\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3f2b037cd30582588cd51c989dcd0a4b715e369c",
+				"url": "/sonolus/repository/LevelCover/3f2b037cd30582588cd51c989dcd0a4b715e369c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "529aa8f8d8e15e87d798f55280ee89be342c518e",
+				"url": "/sonolus/repository/LevelBgm/529aa8f8d8e15e87d798f55280ee89be342c518e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "00933e1850129324950a3ba76b3c2dc3efa3a460",
+				"url": "/sonolus/repository/LevelPreview/00933e1850129324950a3ba76b3c2dc3efa3a460"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f83df1c154f0dba9f04710a0949e77a29e8485cf",
+				"url": "/sonolus/repository/LevelData/f83df1c154f0dba9f04710a0949e77a29e8485cf"
+			}
+		},
+		{
+			"name": "ssw-hard-02008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Room"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tINSIDE ME\nTitle:\t\t\tRoom\nDuration:\t2:09.68\nBPM:\t\t0:00.00-1:21.29: 62.0\n\t\t\t\t1:21.29-1:23.23: 62.0\n\t\t\t\t1:23.23-2:07.74: 62.0\n\t\t\t\t2:07.74-2:09.68: 62.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t432\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3f2b037cd30582588cd51c989dcd0a4b715e369c",
+				"url": "/sonolus/repository/LevelCover/3f2b037cd30582588cd51c989dcd0a4b715e369c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "85c294389b3fe37accbe13733152e44effda1544",
+				"url": "/sonolus/repository/LevelBgm/85c294389b3fe37accbe13733152e44effda1544"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "14cafc1d8cbe0537104b618405c56d919d86057b",
+				"url": "/sonolus/repository/LevelPreview/14cafc1d8cbe0537104b618405c56d919d86057b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1d400533576920990215f5c63a21103358309c3a",
+				"url": "/sonolus/repository/LevelData/1d400533576920990215f5c63a21103358309c3a"
+			}
+		},
+		{
+			"name": "ssw-hard-02009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Hush"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tWon't Forget You\nTitle:\t\t\tHush\nDuration:\t1:34.29\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t364\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7790f1164f8fa4330cf522cd2fa6d58530a13f81",
+				"url": "/sonolus/repository/LevelCover/7790f1164f8fa4330cf522cd2fa6d58530a13f81"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ed0527483828b1be61d79fa7ff6011ffe3926f1a",
+				"url": "/sonolus/repository/LevelBgm/ed0527483828b1be61d79fa7ff6011ffe3926f1a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8486e6027b5d734049ea8f22ffa8aee36ca43c63",
+				"url": "/sonolus/repository/LevelPreview/8486e6027b5d734049ea8f22ffa8aee36ca43c63"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0e7c5743f2ddc29233bec5837ef96643acf588c2",
+				"url": "/sonolus/repository/LevelData/0e7c5743f2ddc29233bec5837ef96643acf588c2"
+			}
+		},
+		{
+			"name": "ssw-hard-02010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "나의 하루 (My day)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tWon't Forget You\nTitle:\t\t\t나의 하루 (My day)\nDuration:\t1:32.54\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t466\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7790f1164f8fa4330cf522cd2fa6d58530a13f81",
+				"url": "/sonolus/repository/LevelCover/7790f1164f8fa4330cf522cd2fa6d58530a13f81"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7055f0950d9403e25a582ec749d3d63a9843408f",
+				"url": "/sonolus/repository/LevelBgm/7055f0950d9403e25a582ec749d3d63a9843408f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ff1fad279f5ded70577481e7c112327af9b4bb28",
+				"url": "/sonolus/repository/LevelPreview/ff1fad279f5ded70577481e7c112327af9b4bb28"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9fc8c0d3213373770e799a0c9d0fe128df5fab09",
+				"url": "/sonolus/repository/LevelData/9fc8c0d3213373770e799a0c9d0fe128df5fab09"
+			}
+		},
+		{
+			"name": "ssw-hard-02011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "You"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tWon't Forget You\nTitle:\t\t\tYou\nDuration:\t1:43.69\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t479\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7790f1164f8fa4330cf522cd2fa6d58530a13f81",
+				"url": "/sonolus/repository/LevelCover/7790f1164f8fa4330cf522cd2fa6d58530a13f81"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c3442ef953acc261685a51934c8b4594e88188a2",
+				"url": "/sonolus/repository/LevelBgm/c3442ef953acc261685a51934c8b4594e88188a2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2a97b85a58cba8880eae95d3f1d3f8c78738fa6d",
+				"url": "/sonolus/repository/LevelPreview/2a97b85a58cba8880eae95d3f1d3f8c78738fa6d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eb77f60db363de959ddc6edc6d41ca15e84f2318",
+				"url": "/sonolus/repository/LevelData/eb77f60db363de959ddc6edc6d41ca15e84f2318"
+			}
+		},
+		{
+			"name": "ssw-hard-02012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "머물러줘 (Don't Move)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t10 Stories\nTitle:\t\t\t머물러줘 (Don't Move)\nDuration:\t1:24.79\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t388\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b9d23c52286ba4851322276c597b6caef5fa49ad",
+				"url": "/sonolus/repository/LevelCover/b9d23c52286ba4851322276c597b6caef5fa49ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c7460ba38d5d1e60f7d48a332002176a6563f16d",
+				"url": "/sonolus/repository/LevelBgm/c7460ba38d5d1e60f7d48a332002176a6563f16d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9b27c1414832dc418f0fbf0c3facfcf05ea81898",
+				"url": "/sonolus/repository/LevelPreview/9b27c1414832dc418f0fbf0c3facfcf05ea81898"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5b63e1239ad6da96685412bcc17c51329c427853",
+				"url": "/sonolus/repository/LevelData/5b63e1239ad6da96685412bcc17c51329c427853"
+			}
+		},
+		{
+			"name": "ssw-hard-02013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Sorry"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t10 Stories\nTitle:\t\t\tSorry\nDuration:\t1:45.00\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t342\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b9d23c52286ba4851322276c597b6caef5fa49ad",
+				"url": "/sonolus/repository/LevelCover/b9d23c52286ba4851322276c597b6caef5fa49ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d0a9afe99a395f5f8667bff910681d2805481efd",
+				"url": "/sonolus/repository/LevelBgm/d0a9afe99a395f5f8667bff910681d2805481efd"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4bd853e70579740fbf94076510edbfe529833461",
+				"url": "/sonolus/repository/LevelPreview/4bd853e70579740fbf94076510edbfe529833461"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7c0329b7146edaa252f919a4ffeef30f204f5690",
+				"url": "/sonolus/repository/LevelData/7c0329b7146edaa252f919a4ffeef30f204f5690"
+			}
+		},
+		{
+			"name": "ssw-hard-02014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "안녕 (Fade)"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tINSIDE ME\nTitle:\t\t\t안녕 (Fade)\nDuration:\t2:06.98\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t571\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3f2b037cd30582588cd51c989dcd0a4b715e369c",
+				"url": "/sonolus/repository/LevelCover/3f2b037cd30582588cd51c989dcd0a4b715e369c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4d3f8ab78637938cd546b61ef66857ba57108852",
+				"url": "/sonolus/repository/LevelBgm/4d3f8ab78637938cd546b61ef66857ba57108852"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c99c591d143e74cc31854b7c4fa2e4aaecb80421",
+				"url": "/sonolus/repository/LevelPreview/c99c591d143e74cc31854b7c4fa2e4aaecb80421"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cd85ad67b65d14262320cd492a2b82143bf20e64",
+				"url": "/sonolus/repository/LevelData/cd85ad67b65d14262320cd492a2b82143bf20e64"
+			}
+		},
+		{
+			"name": "ssw-hard-02015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Climax"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tINSIDE ME\nTitle:\t\t\tClimax\nDuration:\t2:05.09\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t650\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3f2b037cd30582588cd51c989dcd0a4b715e369c",
+				"url": "/sonolus/repository/LevelCover/3f2b037cd30582588cd51c989dcd0a4b715e369c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c5b37cdc49cca2f355084ce76b76ce9af52e9783",
+				"url": "/sonolus/repository/LevelBgm/c5b37cdc49cca2f355084ce76b76ce9af52e9783"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2baf373c46e55f3ea7ad3667009b271679618a60",
+				"url": "/sonolus/repository/LevelPreview/2baf373c46e55f3ea7ad3667009b271679618a60"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "48806cd20c1a061c864d964903c8640d1e0220b7",
+				"url": "/sonolus/repository/LevelData/48806cd20c1a061c864d964903c8640d1e0220b7"
+			}
+		},
+		{
+			"name": "ssw-hard-02016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "DIVIN'"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tINSIDE ME\nTitle:\t\t\tDIVIN'\nDuration:\t1:38.30\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t496\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3f2b037cd30582588cd51c989dcd0a4b715e369c",
+				"url": "/sonolus/repository/LevelCover/3f2b037cd30582588cd51c989dcd0a4b715e369c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "808ec6b8465d45c8615e7d59d857857e873ab466",
+				"url": "/sonolus/repository/LevelBgm/808ec6b8465d45c8615e7d59d857857e873ab466"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b8f65f66dfd91a198667136732721983760681f3",
+				"url": "/sonolus/repository/LevelPreview/b8f65f66dfd91a198667136732721983760681f3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fec239dd73e1ffbb0934696ffea5cbab6db8057c",
+				"url": "/sonolus/repository/LevelData/fec239dd73e1ffbb0934696ffea5cbab6db8057c"
+			}
+		},
+		{
+			"name": "ssw-hard-02017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Hush [Verse 2]"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\tWon't Forget You\nTitle:\t\t\tHush [Verse 2]\nDuration:\t1:29.39\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t458\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7790f1164f8fa4330cf522cd2fa6d58530a13f81",
+				"url": "/sonolus/repository/LevelCover/7790f1164f8fa4330cf522cd2fa6d58530a13f81"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d5ff44c7804ccf996196995d51ee90dd1084720d",
+				"url": "/sonolus/repository/LevelBgm/d5ff44c7804ccf996196995d51ee90dd1084720d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6cf1b940ef918f9235b03ecbdfb05dd9fa9e71da",
+				"url": "/sonolus/repository/LevelPreview/6cf1b940ef918f9235b03ecbdfb05dd9fa9e71da"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "910eff614242036726914d70668668e3dd07000c",
+				"url": "/sonolus/repository/LevelData/910eff614242036726914d70668668e3dd07000c"
+			}
+		},
+		{
+			"name": "ssw-hard-02018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Sentimental"
+			},
+			"artists": {
+				"en": "Kim Sungkyu"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKim Sungkyu\nAlbum:\t\t10 Stories\nTitle:\t\t\tSentimental\nDuration:\t1:44.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t511\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b9d23c52286ba4851322276c597b6caef5fa49ad",
+				"url": "/sonolus/repository/LevelCover/b9d23c52286ba4851322276c597b6caef5fa49ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1ebc61e6353d56a8bb2859fb78183d01e770751a",
+				"url": "/sonolus/repository/LevelBgm/1ebc61e6353d56a8bb2859fb78183d01e770751a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "00d63357da414683097eaa6f6d7a5e2666da7988",
+				"url": "/sonolus/repository/LevelPreview/00d63357da414683097eaa6f6d7a5e2666da7988"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eb0702ff4dfad918b7fe25222eece193a2fd4846",
+				"url": "/sonolus/repository/LevelData/eb0702ff4dfad918b7fe25222eece193a2fd4846"
+			}
+		},
+		{
+			"name": "ssw-hard-03001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "끄덕끄덕 (Nod Nod)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWrite..\nTitle:\t\t\t끄덕끄덕 (Nod Nod)\nDuration:\t2:24.51\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t489\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "621bb0284c125278632814deed6158e7b591efc5",
+				"url": "/sonolus/repository/LevelCover/621bb0284c125278632814deed6158e7b591efc5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b55e25fa791689a40f321e6de39768a61b8e19b6",
+				"url": "/sonolus/repository/LevelBgm/b55e25fa791689a40f321e6de39768a61b8e19b6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7b7f9d1db35fb210bafdf7569ba7d6e9c10fdfa8",
+				"url": "/sonolus/repository/LevelPreview/7b7f9d1db35fb210bafdf7569ba7d6e9c10fdfa8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5c6f2df849a95ed920b73ab2010de310810da2f6",
+				"url": "/sonolus/repository/LevelData/5c6f2df849a95ed920b73ab2010de310810da2f6"
+			}
+		},
+		{
+			"name": "ssw-hard-03002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너만 괜찮다면 (If only you are fine)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tSecond Write..\nTitle:\t\t\t너만 괜찮다면 (If only you are fine)\nDuration:\t2:24.20\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t511\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f53b41c2b09eb71a003c4baa0ca1da6b4e863eea",
+				"url": "/sonolus/repository/LevelCover/f53b41c2b09eb71a003c4baa0ca1da6b4e863eea"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "589bd782114a35c7741dd6a99970fa529a7b9ff7",
+				"url": "/sonolus/repository/LevelBgm/589bd782114a35c7741dd6a99970fa529a7b9ff7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f6fa438220a1a86eb9e67e73d45b576d705d1656",
+				"url": "/sonolus/repository/LevelPreview/f6fa438220a1a86eb9e67e73d45b576d705d1656"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6c9778e0139ac4835e23584dd0c33595b5d848af",
+				"url": "/sonolus/repository/LevelData/6c9778e0139ac4835e23584dd0c33595b5d848af"
+			}
+		},
+		{
+			"name": "ssw-hard-03003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Hold On Me (feat Junoflo)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tA New Journey\nTitle:\t\t\tHold On Me (feat Junoflo)\nDuration:\t1:24.41\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t458\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "d8b2fafef6d6d6566c85ae9db2f18a9b58774889",
+				"url": "/sonolus/repository/LevelCover/d8b2fafef6d6d6566c85ae9db2f18a9b58774889"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "661e9259a6d346cbca24f8685441ba0bc2431237",
+				"url": "/sonolus/repository/LevelBgm/661e9259a6d346cbca24f8685441ba0bc2431237"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b89ba8b866259cfab8df79b5038306393a72799e",
+				"url": "/sonolus/repository/LevelPreview/b89ba8b866259cfab8df79b5038306393a72799e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "877f53574a41d787c0400713f212d3643278aa1b",
+				"url": "/sonolus/repository/LevelData/877f53574a41d787c0400713f212d3643278aa1b"
+			}
+		},
+		{
+			"name": "ssw-hard-03004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Flower"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tA New Journey\nTitle:\t\t\tFlower\nDuration:\t1:17.80\nBPM:\t\t91\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t315\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "d8b2fafef6d6d6566c85ae9db2f18a9b58774889",
+				"url": "/sonolus/repository/LevelCover/d8b2fafef6d6d6566c85ae9db2f18a9b58774889"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "55485ed0ec6b0e679ffb24f0a346720a50ef9f62",
+				"url": "/sonolus/repository/LevelBgm/55485ed0ec6b0e679ffb24f0a346720a50ef9f62"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "56a0aeb732f62f66d483b93a3472d35a7c00fa8f",
+				"url": "/sonolus/repository/LevelPreview/56a0aeb732f62f66d483b93a3472d35a7c00fa8f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "75eade71ca8d9d8a4fc163e4a54156cbe674f4b0",
+				"url": "/sonolus/repository/LevelData/75eade71ca8d9d8a4fc163e4a54156cbe674f4b0"
+			}
+		},
+		{
+			"name": "ssw-hard-03005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "향기 (Nostalgia)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWrite..\nTitle:\t\t\t향기 (Nostalgia)\nDuration:\t2:06.92\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t567\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "621bb0284c125278632814deed6158e7b591efc5",
+				"url": "/sonolus/repository/LevelCover/621bb0284c125278632814deed6158e7b591efc5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "dd4212cc4d010cdaefc56904290b1723f5280459",
+				"url": "/sonolus/repository/LevelBgm/dd4212cc4d010cdaefc56904290b1723f5280459"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fee15b3b706886dd43c66640bc12b8aef57d5aad",
+				"url": "/sonolus/repository/LevelPreview/fee15b3b706886dd43c66640bc12b8aef57d5aad"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "395b4adc646423b9e9c2f87199004de6d8817b38",
+				"url": "/sonolus/repository/LevelData/395b4adc646423b9e9c2f87199004de6d8817b38"
+			}
+		},
+		{
+			"name": "ssw-hard-03006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "같은자리 (The Same Place)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tSecond Write..\nTitle:\t\t\t같은자리 (The Same Place)\nDuration:\t1:43.24\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t439\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f53b41c2b09eb71a003c4baa0ca1da6b4e863eea",
+				"url": "/sonolus/repository/LevelCover/f53b41c2b09eb71a003c4baa0ca1da6b4e863eea"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1f8701470e63994004d888bbd10eeb3054861a20",
+				"url": "/sonolus/repository/LevelBgm/1f8701470e63994004d888bbd10eeb3054861a20"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2d00caeb5882ee289e8cb0fa1f2affe22bc76335",
+				"url": "/sonolus/repository/LevelPreview/2d00caeb5882ee289e8cb0fa1f2affe22bc76335"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "17463664685204fd2800d1a53271c08c1cbf4d36",
+				"url": "/sonolus/repository/LevelData/17463664685204fd2800d1a53271c08c1cbf4d36"
+			}
+		},
+		{
+			"name": "ssw-hard-03007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Stand by me"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWrite..\nTitle:\t\t\tStand by me\nDuration:\t1:28.77\nBPM:\t\t73\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t298\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "621bb0284c125278632814deed6158e7b591efc5",
+				"url": "/sonolus/repository/LevelCover/621bb0284c125278632814deed6158e7b591efc5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b70a294263abc02974bf2efeec5096ced72e98e3",
+				"url": "/sonolus/repository/LevelBgm/b70a294263abc02974bf2efeec5096ced72e98e3"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "faf427763544cd13e08daeae0aec4c96c2789b5d",
+				"url": "/sonolus/repository/LevelPreview/faf427763544cd13e08daeae0aec4c96c2789b5d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dd9b54bb828cfe56d64c728bce8c2f872dfc4205",
+				"url": "/sonolus/repository/LevelData/dd9b54bb828cfe56d64c728bce8c2f872dfc4205"
+			}
+		},
+		{
+			"name": "ssw-hard-03008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "냉정과 열정 사이 (Calm & Passion)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWith\nTitle:\t\t\t냉정과 열정 사이 (Calm & Passion)\nDuration:\t1:49.45\nBPM:\t\t91\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t607\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "740a7501ecb04471f3f6f27c65d95c0fa053d719",
+				"url": "/sonolus/repository/LevelCover/740a7501ecb04471f3f6f27c65d95c0fa053d719"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "665bdc9f8e2825c48d3b69c68742385cb9610bd7",
+				"url": "/sonolus/repository/LevelBgm/665bdc9f8e2825c48d3b69c68742385cb9610bd7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c070529b7c79761de6a12e9c80e29e9adb63e475",
+				"url": "/sonolus/repository/LevelPreview/c070529b7c79761de6a12e9c80e29e9adb63e475"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b25ab100c269d4074205ea220215347b6a7c52ee",
+				"url": "/sonolus/repository/LevelData/b25ab100c269d4074205ea220215347b6a7c52ee"
+			}
+		},
+		{
+			"name": "ssw-hard-03009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Lonely Night"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWith\nTitle:\t\t\tLonely Night\nDuration:\t1:40.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t569\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "740a7501ecb04471f3f6f27c65d95c0fa053d719",
+				"url": "/sonolus/repository/LevelCover/740a7501ecb04471f3f6f27c65d95c0fa053d719"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9dbb8017da0f087c89c9e0d9c5d745ec3688309f",
+				"url": "/sonolus/repository/LevelBgm/9dbb8017da0f087c89c9e0d9c5d745ec3688309f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d513331beb2f062bd5f10a4790c4ec484d27a399",
+				"url": "/sonolus/repository/LevelPreview/d513331beb2f062bd5f10a4790c4ec484d27a399"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "266ad98320a387ae7b7dc123333261ada46c3a2c",
+				"url": "/sonolus/repository/LevelData/266ad98320a387ae7b7dc123333261ada46c3a2c"
+			}
+		},
+		{
+			"name": "ssw-hard-03010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "오늘따라 (My Diary)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWith\nTitle:\t\t\t오늘따라 (My Diary)\nDuration:\t1:29.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t394\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "740a7501ecb04471f3f6f27c65d95c0fa053d719",
+				"url": "/sonolus/repository/LevelCover/740a7501ecb04471f3f6f27c65d95c0fa053d719"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ceb75d60dd4fdce05e7bfe887d256bd7a9544b0e",
+				"url": "/sonolus/repository/LevelBgm/ceb75d60dd4fdce05e7bfe887d256bd7a9544b0e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9ed9146b0967f3d18570a856b75eec6eb5de1122",
+				"url": "/sonolus/repository/LevelPreview/9ed9146b0967f3d18570a856b75eec6eb5de1122"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "161a9c44957eace5d9a2f93893bcb0b5d6582902",
+				"url": "/sonolus/repository/LevelData/161a9c44957eace5d9a2f93893bcb0b5d6582902"
+			}
+		},
+		{
+			"name": "ssw-hard-03011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "A Song For You"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tWith\nTitle:\t\t\tA Song For You\nDuration:\t1:33.44\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t604\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "740a7501ecb04471f3f6f27c65d95c0fa053d719",
+				"url": "/sonolus/repository/LevelCover/740a7501ecb04471f3f6f27c65d95c0fa053d719"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "add2972d8dc4b5b25c3e7530b40dfb6eb16bac3c",
+				"url": "/sonolus/repository/LevelBgm/add2972d8dc4b5b25c3e7530b40dfb6eb16bac3c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "06b689898de634e6e441228dd34e63a3c1fc60b6",
+				"url": "/sonolus/repository/LevelPreview/06b689898de634e6e441228dd34e63a3c1fc60b6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "63fb64df1780e28b6580e339a898fc989864920b",
+				"url": "/sonolus/repository/LevelData/63fb64df1780e28b6580e339a898fc989864920b"
+			}
+		},
+		{
+			"name": "ssw-hard-03012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I Swear (Feat. Dongwoo of INFINITE)"
+			},
+			"artists": {
+				"en": "Nam Woohyun"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNam Woohyun\nAlbum:\t\tSecond Write..\nTitle:\t\t\tI Swear (Feat. Dongwoo of INFINITE)\nDuration:\t1:54.55\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t625\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-03002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f53b41c2b09eb71a003c4baa0ca1da6b4e863eea",
+				"url": "/sonolus/repository/LevelCover/f53b41c2b09eb71a003c4baa0ca1da6b4e863eea"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "776cf74db6ea58fde0f8844c428116135af69800",
+				"url": "/sonolus/repository/LevelBgm/776cf74db6ea58fde0f8844c428116135af69800"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4c29bbb3ed8dc4562e360665332b722b3b968512",
+				"url": "/sonolus/repository/LevelPreview/4c29bbb3ed8dc4562e360665332b722b3b968512"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a34ba054189f0b5d21cbfb9b40bdc29562dd5a3e",
+				"url": "/sonolus/repository/LevelData/a34ba054189f0b5d21cbfb9b40bdc29562dd5a3e"
+			}
+		},
+		{
+			"name": "ssw-hard-04001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "마음에 묻다 (Embedded In Mind) (feat 윤소윤)"
+			},
+			"artists": {
+				"en": "Jang Dongwoo"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJang Dongwoo\nAlbum:\t\t마음에 묻다 (Embedded In Mind)\nTitle:\t\t\t마음에 묻다 (Embedded In Mind) (feat 윤소윤)\nDuration:\t1:03.79\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t336\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "62c0f46b823ebe8909c2239d4939afff05cda72c",
+				"url": "/sonolus/repository/LevelCover/62c0f46b823ebe8909c2239d4939afff05cda72c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "73d1245ed67950ffafaa00fb4d953253b1baf3b4",
+				"url": "/sonolus/repository/LevelBgm/73d1245ed67950ffafaa00fb4d953253b1baf3b4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "92747e9f8b48cec1a99a56d310eb29a414c89bc8",
+				"url": "/sonolus/repository/LevelPreview/92747e9f8b48cec1a99a56d310eb29a414c89bc8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8dec735fde4df197302329f323dea4a9467b1d21",
+				"url": "/sonolus/repository/LevelData/8dec735fde4df197302329f323dea4a9467b1d21"
+			}
+		},
+		{
+			"name": "ssw-hard-04002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "News"
+			},
+			"artists": {
+				"en": "Jang Dongwoo"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJang Dongwoo\nAlbum:\t\tBYE\nTitle:\t\t\tNews\nDuration:\t1:53.34\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t419\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-04002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9",
+				"url": "/sonolus/repository/LevelCover/f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6b5ff89748cb5d1fa0d050fbacf9869807a2cefd",
+				"url": "/sonolus/repository/LevelBgm/6b5ff89748cb5d1fa0d050fbacf9869807a2cefd"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b6ade737b9b42dcc0ca3e3a98ffff48785a2c897",
+				"url": "/sonolus/repository/LevelPreview/b6ade737b9b42dcc0ca3e3a98ffff48785a2c897"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d90e968efeb012c0fda4a1c78fe8c09250bd4498",
+				"url": "/sonolus/repository/LevelData/d90e968efeb012c0fda4a1c78fe8c09250bd4498"
+			}
+		},
+		{
+			"name": "ssw-hard-04003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Something Between"
+			},
+			"artists": {
+				"en": "Jang Dongwoo"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJang Dongwoo\nAlbum:\t\tBYE\nTitle:\t\t\tSomething Between\nDuration:\t1:43.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t579\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-04002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9",
+				"url": "/sonolus/repository/LevelCover/f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "db23d697e29e1dd4b39a307c7282dfd30360e059",
+				"url": "/sonolus/repository/LevelBgm/db23d697e29e1dd4b39a307c7282dfd30360e059"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "67a4244e3219046e9acc05d07de965aed4df4ff6",
+				"url": "/sonolus/repository/LevelPreview/67a4244e3219046e9acc05d07de965aed4df4ff6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6d3c0a978eb2cd2cf697e038eb6c3f60cbb0ecc2",
+				"url": "/sonolus/repository/LevelData/6d3c0a978eb2cd2cf697e038eb6c3f60cbb0ecc2"
+			}
+		},
+		{
+			"name": "ssw-hard-04004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "PERFECT"
+			},
+			"artists": {
+				"en": "Jang Dongwoo"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJang Dongwoo\nAlbum:\t\tBYE\nTitle:\t\t\tPERFECT\nDuration:\t1:23.34\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t485\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-04002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9",
+				"url": "/sonolus/repository/LevelCover/f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ee21e1fbbdeb27cc55c76cee6d2403c72c90ac9b",
+				"url": "/sonolus/repository/LevelBgm/ee21e1fbbdeb27cc55c76cee6d2403c72c90ac9b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "eddc5ab039ed7b7b78865fc7d7648e92fac1be1c",
+				"url": "/sonolus/repository/LevelPreview/eddc5ab039ed7b7b78865fc7d7648e92fac1be1c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "29ea7bb376ce8e3a2d1d53eadcfbfd7cb37d5a61",
+				"url": "/sonolus/repository/LevelData/29ea7bb376ce8e3a2d1d53eadcfbfd7cb37d5a61"
+			}
+		},
+		{
+			"name": "ssw-hard-04005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Gun"
+			},
+			"artists": {
+				"en": "Jang Dongwoo"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJang Dongwoo\nAlbum:\t\tBYE\nTitle:\t\t\tGun\nDuration:\t1:37.65\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t561\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-04002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9",
+				"url": "/sonolus/repository/LevelCover/f6ddaebc3051849d8f9817921f3a3de7e6f9b9b9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "46c078b382d551581611d91ac422007706a0e63b",
+				"url": "/sonolus/repository/LevelBgm/46c078b382d551581611d91ac422007706a0e63b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a80e2f9283709ce6a65391a7d51fa5a5a34d4309",
+				"url": "/sonolus/repository/LevelPreview/a80e2f9283709ce6a65391a7d51fa5a5a34d4309"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "83669411946a0fa02b5beab9d57c234eb034cb73",
+				"url": "/sonolus/repository/LevelData/83669411946a0fa02b5beab9d57c234eb034cb73"
+			}
+		},
+		{
+			"name": "ssw-hard-10001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "이어달리기 (Relay)"
+			},
+			"artists": {
+				"en": "With Woollim"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tWith Woollim\nAlbum:\t\t이어달리기\nTitle:\t\t\t이어달리기 (Relay)\nDuration:\t1:52.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t548\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-10001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "366725bcfcf107d6b0d042e43bc10efc43ed52c1",
+				"url": "/sonolus/repository/LevelCover/366725bcfcf107d6b0d042e43bc10efc43ed52c1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3ac929a7a0ef2b5be1555171b0023b2da17989b2",
+				"url": "/sonolus/repository/LevelBgm/3ac929a7a0ef2b5be1555171b0023b2da17989b2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "42f2a676409b6b25e376dba665048f63de585a37",
+				"url": "/sonolus/repository/LevelPreview/42f2a676409b6b25e376dba665048f63de585a37"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fadab023d1a2925dca88f5c73e6f4dda380e55f8",
+				"url": "/sonolus/repository/LevelData/fadab023d1a2925dca88f5c73e6f4dda380e55f8"
+			}
+		},
+		{
+			"name": "ssw-hard-10002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "이어달리기 (Relay) [Verse 2]"
+			},
+			"artists": {
+				"en": "With Woollim"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tWith Woollim\nAlbum:\t\t이어달리기\nTitle:\t\t\t이어달리기 (Relay) [Verse 2]\nDuration:\t1:59.43\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t664\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-10002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "cf999bca650979c88cafd0fe679064fa785853f4",
+				"url": "/sonolus/repository/LevelCover/cf999bca650979c88cafd0fe679064fa785853f4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ff478e3636193f10299b96f644c812a953dd1f7c",
+				"url": "/sonolus/repository/LevelBgm/ff478e3636193f10299b96f644c812a953dd1f7c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e7f8fd5d25e89d936b9665eb8855683d91ae16b9",
+				"url": "/sonolus/repository/LevelPreview/e7f8fd5d25e89d936b9665eb8855683d91ae16b9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dba6483610f4f7b7223f10d967a0c28d343b17de",
+				"url": "/sonolus/repository/LevelData/dba6483610f4f7b7223f10d967a0c28d343b17de"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01001",
+			"version": 2,
+			"title": {
+				"en": "First Invasion default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tFirst Invasion\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a696b77db9f72f9a69387a0bde00de1f90f67830",
+				"url": "/sonolus/repository/BackgroundThumbnail/a696b77db9f72f9a69387a0bde00de1f90f67830"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f381ec55226b4bb72afbbf21046f9a6b2ae05974",
+				"url": "/sonolus/repository/BackgroundImage/f381ec55226b4bb72afbbf21046f9a6b2ae05974"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01002",
+			"version": 2,
+			"title": {
+				"en": "Evolution default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tEvolution\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "92db34ae2258cc58a7e98f5b639a1c430ba45876",
+				"url": "/sonolus/repository/BackgroundThumbnail/92db34ae2258cc58a7e98f5b639a1c430ba45876"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "dbc1da761936cba679ba4262ecd050661782e54c",
+				"url": "/sonolus/repository/BackgroundImage/dbc1da761936cba679ba4262ecd050661782e54c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01003",
+			"version": 2,
+			"title": {
+				"en": "Over The Top default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tOver The Top\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "450f6c3ab3570198a479edf058e502d1640c0d84",
+				"url": "/sonolus/repository/BackgroundThumbnail/450f6c3ab3570198a479edf058e502d1640c0d84"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f234669402489f3ca5d9f15b7d6692898aacae9b",
+				"url": "/sonolus/repository/BackgroundImage/f234669402489f3ca5d9f15b7d6692898aacae9b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01004",
+			"version": 2,
+			"title": {
+				"en": "Paradise default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tParadise\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "7fb7f96aa954d9f40ef4cd5a3b5e16b6ab6725a4",
+				"url": "/sonolus/repository/BackgroundThumbnail/7fb7f96aa954d9f40ef4cd5a3b5e16b6ab6725a4"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "74bb44457026b8e7fad02c549b8319282b2261fe",
+				"url": "/sonolus/repository/BackgroundImage/74bb44457026b8e7fad02c549b8319282b2261fe"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01005",
+			"version": 2,
+			"title": {
+				"en": "New Challenge default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tNew Challenge\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "bdf7ed3baeb08af61fcad86849793a731a26ad1c",
+				"url": "/sonolus/repository/BackgroundThumbnail/bdf7ed3baeb08af61fcad86849793a731a26ad1c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e63b62efa41f62558bb337ee04d9e6b4b0b4358e",
+				"url": "/sonolus/repository/BackgroundImage/e63b62efa41f62558bb337ee04d9e6b4b0b4358e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01006",
+			"version": 2,
+			"title": {
+				"en": "Season 2 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tSeason 2\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "b1cd374463a4ab8a3b2a00b30ad739aba5c4455e",
+				"url": "/sonolus/repository/BackgroundThumbnail/b1cd374463a4ab8a3b2a00b30ad739aba5c4455e"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e2b5b766f37bcc9f61499a55bf1b17630a6bb12f",
+				"url": "/sonolus/repository/BackgroundImage/e2b5b766f37bcc9f61499a55bf1b17630a6bb12f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01007",
+			"version": 2,
+			"title": {
+				"en": "Be Back default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tBe Back\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8f6839a9bb31c52dddff67dc5f9efd2f62f64844",
+				"url": "/sonolus/repository/BackgroundThumbnail/8f6839a9bb31c52dddff67dc5f9efd2f62f64844"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e6147c263852153e241883e984c233e305ca13f9",
+				"url": "/sonolus/repository/BackgroundImage/e6147c263852153e241883e984c233e305ca13f9"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01008",
+			"version": 2,
+			"title": {
+				"en": "Reality default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tReality\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "005824ae3994dbd88901daf4d5ca53c5494c7bac",
+				"url": "/sonolus/repository/BackgroundThumbnail/005824ae3994dbd88901daf4d5ca53c5494c7bac"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "0b309df947a3191c8d1a54cb2d2c6f5e4f458531",
+				"url": "/sonolus/repository/BackgroundImage/0b309df947a3191c8d1a54cb2d2c6f5e4f458531"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01009",
+			"version": 2,
+			"title": {
+				"en": "TOP SEED default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tTOP SEED\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "cbf1672f65c5be1b026f3ae8d43a008aafa369cf",
+				"url": "/sonolus/repository/BackgroundThumbnail/cbf1672f65c5be1b026f3ae8d43a008aafa369cf"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "18034714aff3d64ff968d860ffcd94d0d7e9d34d",
+				"url": "/sonolus/repository/BackgroundImage/18034714aff3d64ff968d860ffcd94d0d7e9d34d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01012",
+			"version": 2,
+			"title": {
+				"en": "Infinitize default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tInfinitize\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9e333db3e1f6be83034ace0d32bf0f4893458ec4",
+				"url": "/sonolus/repository/BackgroundThumbnail/9e333db3e1f6be83034ace0d32bf0f4893458ec4"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "56cd1b8a45ba724270d76f3d600fef4bb839801b",
+				"url": "/sonolus/repository/BackgroundImage/56cd1b8a45ba724270d76f3d600fef4bb839801b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01013",
+			"version": 2,
+			"title": {
+				"en": "Destiny default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tDestiny\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5e60f05f27ce2888b1a257ab9b91e49cd55113cf",
+				"url": "/sonolus/repository/BackgroundThumbnail/5e60f05f27ce2888b1a257ab9b91e49cd55113cf"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "babba1d5ff4b4ac7eaa124c242da7313ca3188ae",
+				"url": "/sonolus/repository/BackgroundImage/babba1d5ff4b4ac7eaa124c242da7313ca3188ae"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01015",
+			"version": 2,
+			"title": {
+				"en": "Inspirit default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tInspirit\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d2274b67098f515687e8502345b572b4324fa216",
+				"url": "/sonolus/repository/BackgroundThumbnail/d2274b67098f515687e8502345b572b4324fa216"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "99001e9c16a9bb2e3ca96f46a4636964daf76e30",
+				"url": "/sonolus/repository/BackgroundImage/99001e9c16a9bb2e3ca96f46a4636964daf76e30"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-01017",
+			"version": 2,
+			"title": {
+				"en": "INFINITE ONLY default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tINFINITE ONLY\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a835163055e4b0cd161cc9a8ebdbd3cce1dbca2a",
+				"url": "/sonolus/repository/BackgroundThumbnail/a835163055e4b0cd161cc9a8ebdbd3cce1dbca2a"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "241059d59c4b0326b1df8dd13b65d70aaee6f7df",
+				"url": "/sonolus/repository/BackgroundImage/241059d59c4b0326b1df8dd13b65d70aaee6f7df"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-02001",
+			"version": 2,
+			"title": {
+				"en": "Another Me default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tAnother Me\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "fe9ebf8ab0cf61383876284095e0b625e6a7dda0",
+				"url": "/sonolus/repository/BackgroundThumbnail/fe9ebf8ab0cf61383876284095e0b625e6a7dda0"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "208188fcc3786d40eeead67dc2d3a6bba42b199a",
+				"url": "/sonolus/repository/BackgroundImage/208188fcc3786d40eeead67dc2d3a6bba42b199a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-02002",
+			"version": 2,
+			"title": {
+				"en": "27 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t27\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9272600c17926c0d89ac413b246378cc128cd7ca",
+				"url": "/sonolus/repository/BackgroundThumbnail/9272600c17926c0d89ac413b246378cc128cd7ca"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "ad6749052b40df5558007c910542c233f28ea461",
+				"url": "/sonolus/repository/BackgroundImage/ad6749052b40df5558007c910542c233f28ea461"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-02003",
+			"version": 2,
+			"title": {
+				"en": "10 Stories default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t10 Stories\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8c4b71a31b5ce5f1883a16ce6dbdb332b0ed26d5",
+				"url": "/sonolus/repository/BackgroundThumbnail/8c4b71a31b5ce5f1883a16ce6dbdb332b0ed26d5"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "7b851e908d415f5e5bc90b7a10ea54bc11d375ea",
+				"url": "/sonolus/repository/BackgroundImage/7b851e908d415f5e5bc90b7a10ea54bc11d375ea"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-02007",
+			"version": 2,
+			"title": {
+				"en": "INSIDE ME default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tINSIDE ME\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9c82d241070e1b6608eab24ffe898dcaafd17a83",
+				"url": "/sonolus/repository/BackgroundThumbnail/9c82d241070e1b6608eab24ffe898dcaafd17a83"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "99a9acbd8aa38ba60052f3d18223103ebf367b0f",
+				"url": "/sonolus/repository/BackgroundImage/99a9acbd8aa38ba60052f3d18223103ebf367b0f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-02009",
+			"version": 2,
+			"title": {
+				"en": "Won't Forget You default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tWon't Forget You\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "408f2695c1c717a803c493b581ec869b124c0fe8",
+				"url": "/sonolus/repository/BackgroundThumbnail/408f2695c1c717a803c493b581ec869b124c0fe8"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "5afc371fc79d0e497f96a1c8923bda5fe809072f",
+				"url": "/sonolus/repository/BackgroundImage/5afc371fc79d0e497f96a1c8923bda5fe809072f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-03001",
+			"version": 2,
+			"title": {
+				"en": "Write.. default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tWrite..\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "674ee7f1454a0be297752f867e30c3f82a519a15",
+				"url": "/sonolus/repository/BackgroundThumbnail/674ee7f1454a0be297752f867e30c3f82a519a15"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "12a29b08b61328fc2fced6d9a7140fa992c55ecb",
+				"url": "/sonolus/repository/BackgroundImage/12a29b08b61328fc2fced6d9a7140fa992c55ecb"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-03002",
+			"version": 2,
+			"title": {
+				"en": "Second Write.. default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tSecond Write..\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "acd2279b4bb2a83cffc8620fd3c0d44584a433ca",
+				"url": "/sonolus/repository/BackgroundThumbnail/acd2279b4bb2a83cffc8620fd3c0d44584a433ca"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f34763e583118f45636bff55c7002d1555b8ca5b",
+				"url": "/sonolus/repository/BackgroundImage/f34763e583118f45636bff55c7002d1555b8ca5b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-03003",
+			"version": 2,
+			"title": {
+				"en": "A New Journey default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tA New Journey\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8ae8ad90c7af6952104f42730fb959e4fd4592af",
+				"url": "/sonolus/repository/BackgroundThumbnail/8ae8ad90c7af6952104f42730fb959e4fd4592af"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "646b0a40f69111c7ac44492f33148f2757a258e5",
+				"url": "/sonolus/repository/BackgroundImage/646b0a40f69111c7ac44492f33148f2757a258e5"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-03008",
+			"version": 2,
+			"title": {
+				"en": "With default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tWith\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d03d292e20094a94faf17b79e95f6b87c7107f0b",
+				"url": "/sonolus/repository/BackgroundThumbnail/d03d292e20094a94faf17b79e95f6b87c7107f0b"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "01cddd5343e7a00198ecaaba5efe3c613f7d423f",
+				"url": "/sonolus/repository/BackgroundImage/01cddd5343e7a00198ecaaba5efe3c613f7d423f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-04001",
+			"version": 2,
+			"title": {
+				"en": "마음에 묻다 (Embedded In Mind) default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t마음에 묻다 (Embedded In Mind)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "bd3cdb753a1b41d67363a592de59094244d4f12c",
+				"url": "/sonolus/repository/BackgroundThumbnail/bd3cdb753a1b41d67363a592de59094244d4f12c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "ee159a8867165d115d00b047b20a49a77aa7f845",
+				"url": "/sonolus/repository/BackgroundImage/ee159a8867165d115d00b047b20a49a77aa7f845"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-04002",
+			"version": 2,
+			"title": {
+				"en": "BYE default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tBYE\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d63e1f7ae6e9acf66f203881403c9dcb65c88b16",
+				"url": "/sonolus/repository/BackgroundThumbnail/d63e1f7ae6e9acf66f203881403c9dcb65c88b16"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a785ead6617aa708245a5ae968d587d39fa8a50e",
+				"url": "/sonolus/repository/BackgroundImage/a785ead6617aa708245a5ae968d587d39fa8a50e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-10001",
+			"version": 2,
+			"title": {
+				"en": "이어달리기 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t이어달리기\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "40ce4f79d24e9432e4cb68ffa3ec73f6899f303f",
+				"url": "/sonolus/repository/BackgroundThumbnail/40ce4f79d24e9432e4cb68ffa3ec73f6899f303f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "335fb5509b915fb65220447c86918d518ea5925b",
+				"url": "/sonolus/repository/BackgroundImage/335fb5509b915fb65220447c86918d518ea5925b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-10002",
+			"version": 2,
+			"title": {
+				"en": "이어달리기 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t이어달리기\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9d32750066fc7798334555d401e458d3106fe114",
+				"url": "/sonolus/repository/BackgroundThumbnail/9d32750066fc7798334555d401e458d3106fe114"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "0fc30d93d448794f6e9d4b35ddd3c7441163fcb6",
+				"url": "/sonolus/repository/BackgroundImage/0fc30d93d448794f6e9d4b35ddd3c7441163fcb6"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "3d00260579cd80bc8cc833ad241f85c78fed3035",
+				"url": "/sonolus/repository/EngineData/3d00260579cd80bc8cc833ad241f85c78fed3035"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

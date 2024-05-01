@@ -1,0 +1,1643 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Kwon Eunbi)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssw-hard-12001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Door"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tDoor\nDuration:\t1:28.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t594\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f5d489314b461dc6fb31931058d901d7ea7c7eee",
+				"url": "/sonolus/repository/LevelBgm/f5d489314b461dc6fb31931058d901d7ea7c7eee"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "242c494d74df25e15fc395da816370898691f70d",
+				"url": "/sonolus/repository/LevelPreview/242c494d74df25e15fc395da816370898691f70d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "429d2ca444a99f69813d5c9a60e3beba06eef1ea",
+				"url": "/sonolus/repository/LevelData/429d2ca444a99f69813d5c9a60e3beba06eef1ea"
+			}
+		},
+		{
+			"name": "ssw-hard-12002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Eternity"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tEternity\nDuration:\t1:20.90\nBPM:\t\t89\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t325\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "dd859c839d8b4a20fda0b1a1c041e3ed805fd828",
+				"url": "/sonolus/repository/LevelBgm/dd859c839d8b4a20fda0b1a1c041e3ed805fd828"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5e941c696467ec366b62a2106f72b14dd2f1d360",
+				"url": "/sonolus/repository/LevelPreview/5e941c696467ec366b62a2106f72b14dd2f1d360"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a940d3bf88a4b0cfb14d4a48da3f33a2b0b5006d",
+				"url": "/sonolus/repository/LevelData/a940d3bf88a4b0cfb14d4a48da3f33a2b0b5006d"
+			}
+		},
+		{
+			"name": "ssw-hard-12003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Amigo (Feat. Babysoul of Lovelyz)"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tAmigo (Feat. Babysoul of Lovelyz)\nDuration:\t1:44.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t564\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c4a7c2c9680429689723db59f532e53f569af242",
+				"url": "/sonolus/repository/LevelBgm/c4a7c2c9680429689723db59f532e53f569af242"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "24666152589459e7ca13138afe35b77c5e4dd489",
+				"url": "/sonolus/repository/LevelPreview/24666152589459e7ca13138afe35b77c5e4dd489"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "502b7d89669ec4ab77ca14e22d0de537052ad2d0",
+				"url": "/sonolus/repository/LevelData/502b7d89669ec4ab77ca14e22d0de537052ad2d0"
+			}
+		},
+		{
+			"name": "ssw-hard-12004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "비 오는 길 (Rain)"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\t비 오는 길 (Rain)\nDuration:\t1:47.46\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t424\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "54d904d5d8312dca24086bfc198f5da58c5ad688",
+				"url": "/sonolus/repository/LevelBgm/54d904d5d8312dca24086bfc198f5da58c5ad688"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "11337a374b439f16f04e907b15dadc229f582fb8",
+				"url": "/sonolus/repository/LevelPreview/11337a374b439f16f04e907b15dadc229f582fb8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8ae3032e5ce63da82d047eef6ec343337e9c08b5",
+				"url": "/sonolus/repository/LevelData/8ae3032e5ce63da82d047eef6ec343337e9c08b5"
+			}
+		},
+		{
+			"name": "ssw-hard-12005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Blue Eyes"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tBlue Eyes\nDuration:\t1:25.53\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t434\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "580c8f4aacab9a7a49d8b17c78a7d084fb131dd0",
+				"url": "/sonolus/repository/LevelBgm/580c8f4aacab9a7a49d8b17c78a7d084fb131dd0"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ac00845ffb3f78e91c920f3773463e41ab1394c0",
+				"url": "/sonolus/repository/LevelPreview/ac00845ffb3f78e91c920f3773463e41ab1394c0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "01949deb7fd96cdae30c8df14f271b2519518cdf",
+				"url": "/sonolus/repository/LevelData/01949deb7fd96cdae30c8df14f271b2519518cdf"
+			}
+		},
+		{
+			"name": "ssw-hard-12006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Glitch"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tColor\nTitle:\t\t\tGlitch\nDuration:\t1:36.52\nBPM:\t\t138\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t657\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1634f05d50d92e54b50dc715ace552c379839700",
+				"url": "/sonolus/repository/LevelCover/1634f05d50d92e54b50dc715ace552c379839700"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "046fdb3cee02f6f303bfc1122ed78a200addc227",
+				"url": "/sonolus/repository/LevelBgm/046fdb3cee02f6f303bfc1122ed78a200addc227"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e666bf4c59f777d26b09c0df65698c511b3eedce",
+				"url": "/sonolus/repository/LevelPreview/e666bf4c59f777d26b09c0df65698c511b3eedce"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5b406f7943c78c74adae0c1235fb84e12dd2d220",
+				"url": "/sonolus/repository/LevelData/5b406f7943c78c74adae0c1235fb84e12dd2d220"
+			}
+		},
+		{
+			"name": "ssw-hard-12007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Door [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tDoor [Verse 2]\nDuration:\t1:21.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t477\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2caf3049542d4aa48601940dfe49394fcdb29e47",
+				"url": "/sonolus/repository/LevelBgm/2caf3049542d4aa48601940dfe49394fcdb29e47"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "aac63689fe78fda34d6335c372f9b84809de3982",
+				"url": "/sonolus/repository/LevelPreview/aac63689fe78fda34d6335c372f9b84809de3982"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5eb76fb4d63714a22c9aa1192e800c19a10ec8fd",
+				"url": "/sonolus/repository/LevelData/5eb76fb4d63714a22c9aa1192e800c19a10ec8fd"
+			}
+		},
+		{
+			"name": "ssw-hard-12008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Magnetic"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tColor\nTitle:\t\t\tMagnetic\nDuration:\t1:25.72\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t494\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1634f05d50d92e54b50dc715ace552c379839700",
+				"url": "/sonolus/repository/LevelCover/1634f05d50d92e54b50dc715ace552c379839700"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6cbff8be5080d67f1a0af9117ef8c2c27243d208",
+				"url": "/sonolus/repository/LevelBgm/6cbff8be5080d67f1a0af9117ef8c2c27243d208"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fdeaf0cd8f648ef4692c1937084c488efcb43137",
+				"url": "/sonolus/repository/LevelPreview/fdeaf0cd8f648ef4692c1937084c488efcb43137"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1d9ef7689e2a895ce2595d8b9938d4e897db0a8b",
+				"url": "/sonolus/repository/LevelData/1d9ef7689e2a895ce2595d8b9938d4e897db0a8b"
+			}
+		},
+		{
+			"name": "ssw-hard-12009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Amigo (Feat. Babysoul of Lovelyz) [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tAmigo (Feat. Babysoul of Lovelyz) [Verse 2]\nDuration:\t1:37.20\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t558\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5cfeaf6a7e6a4537cd93021ad7abcf4481337fee",
+				"url": "/sonolus/repository/LevelBgm/5cfeaf6a7e6a4537cd93021ad7abcf4481337fee"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c3fb5a828ff3fbe6d7dbb0096e43935b02d12459",
+				"url": "/sonolus/repository/LevelPreview/c3fb5a828ff3fbe6d7dbb0096e43935b02d12459"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a9bf9eb3885650348718791ed421e48a6ba151a8",
+				"url": "/sonolus/repository/LevelData/a9bf9eb3885650348718791ed421e48a6ba151a8"
+			}
+		},
+		{
+			"name": "ssw-hard-12010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Colors"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tColor\nTitle:\t\t\tColors\nDuration:\t1:58.59\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t638\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1634f05d50d92e54b50dc715ace552c379839700",
+				"url": "/sonolus/repository/LevelCover/1634f05d50d92e54b50dc715ace552c379839700"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4875fd5afed6f6097bebd62232c0de0c6df7b670",
+				"url": "/sonolus/repository/LevelBgm/4875fd5afed6f6097bebd62232c0de0c6df7b670"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ce56b222e31782ea232ad84e4f5857657289bedb",
+				"url": "/sonolus/repository/LevelPreview/ce56b222e31782ea232ad84e4f5857657289bedb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "28230824df9474c42469dc9d22676260ffbbc99c",
+				"url": "/sonolus/repository/LevelData/28230824df9474c42469dc9d22676260ffbbc99c"
+			}
+		},
+		{
+			"name": "ssw-hard-12011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Underwater"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tUnderwater\nDuration:\t1:14.09\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t455\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0b0b2fac924c39a76cfee6cae124bba0aa8405b2",
+				"url": "/sonolus/repository/LevelBgm/0b0b2fac924c39a76cfee6cae124bba0aa8405b2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7ca6adb4ac8afc774f3f21f5ef8780583af5856d",
+				"url": "/sonolus/repository/LevelPreview/7ca6adb4ac8afc774f3f21f5ef8780583af5856d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "34330f144ce06fd9ca66ff1d37ca2c5865e89194",
+				"url": "/sonolus/repository/LevelData/34330f144ce06fd9ca66ff1d37ca2c5865e89194"
+			}
+		},
+		{
+			"name": "ssw-hard-12012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Croquis"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tCroquis\nDuration:\t1:25.58\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t555\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "35b5692decf0b97ffc4a56ba7145a027809b6cad",
+				"url": "/sonolus/repository/LevelBgm/35b5692decf0b97ffc4a56ba7145a027809b6cad"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3f7103a29da4fd338284bddd56a866cf9c4395f0",
+				"url": "/sonolus/repository/LevelPreview/3f7103a29da4fd338284bddd56a866cf9c4395f0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "065365ad947888561998242755d2d562406fcfce",
+				"url": "/sonolus/repository/LevelData/065365ad947888561998242755d2d562406fcfce"
+			}
+		},
+		{
+			"name": "ssw-hard-12013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Simulation"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tSimulation\nDuration:\t1:42.39\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t694\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6ab643c2cbe99f8b61d2ed927c2ced6410d12a7c",
+				"url": "/sonolus/repository/LevelBgm/6ab643c2cbe99f8b61d2ed927c2ced6410d12a7c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b52ce6864327a1ef7b0fb1af4d66eee63820c7ed",
+				"url": "/sonolus/repository/LevelPreview/b52ce6864327a1ef7b0fb1af4d66eee63820c7ed"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1e1e07c4d22f8c6a356f3cd53ed2a1674e1cf791",
+				"url": "/sonolus/repository/LevelData/1e1e07c4d22f8c6a356f3cd53ed2a1674e1cf791"
+			}
+		},
+		{
+			"name": "ssw-hard-12014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Blue Eyes [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tBlue Eyes [Verse 2]\nDuration:\t1:19.15\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t461\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "de5f0fe6c9d15308fcf1b57ea14c72ef8e67a6b7",
+				"url": "/sonolus/repository/LevelBgm/de5f0fe6c9d15308fcf1b57ea14c72ef8e67a6b7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fc9f1ae9105c81773e2f75296116ceebec892192",
+				"url": "/sonolus/repository/LevelPreview/fc9f1ae9105c81773e2f75296116ceebec892192"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7b1ad97c20598d2dad6aa3ea9e2b08cfe3befed0",
+				"url": "/sonolus/repository/LevelData/7b1ad97c20598d2dad6aa3ea9e2b08cfe3befed0"
+			}
+		},
+		{
+			"name": "ssw-hard-12015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Flash (Prod. 박문치)"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tFlash (Prod. 박문치)\nDuration:\t1:47.10\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t537\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3749743da2d2589d4a3112ca63007fbbf394f13a",
+				"url": "/sonolus/repository/LevelBgm/3749743da2d2589d4a3112ca63007fbbf394f13a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "04c979e8670dfc6ddec23af53e46bb405cb437c6",
+				"url": "/sonolus/repository/LevelPreview/04c979e8670dfc6ddec23af53e46bb405cb437c6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8c5a428b13dd41b19a9929f58731aaa1d0488c6e",
+				"url": "/sonolus/repository/LevelData/8c5a428b13dd41b19a9929f58731aaa1d0488c6e"
+			}
+		},
+		{
+			"name": "ssw-hard-12016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Colors [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tColor\nTitle:\t\t\tColors [Verse 2]\nDuration:\t1:21.89\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t358\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1634f05d50d92e54b50dc715ace552c379839700",
+				"url": "/sonolus/repository/LevelCover/1634f05d50d92e54b50dc715ace552c379839700"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cf6c377e32beb599e95de962f8b8b7ecedfa0618",
+				"url": "/sonolus/repository/LevelBgm/cf6c377e32beb599e95de962f8b8b7ecedfa0618"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4bec90565c7f6b5b01f541fb662b07d206f51acd",
+				"url": "/sonolus/repository/LevelPreview/4bec90565c7f6b5b01f541fb662b07d206f51acd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b0b243962b7a7e748ef4a434534096e2135d1522",
+				"url": "/sonolus/repository/LevelData/b0b243962b7a7e748ef4a434534096e2135d1522"
+			}
+		},
+		{
+			"name": "ssw-hard-12017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Hi"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tHi\nDuration:\t1:33.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t695\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2bec9fbcce731295b636ca530a34dc275ea07f80",
+				"url": "/sonolus/repository/LevelBgm/2bec9fbcce731295b636ca530a34dc275ea07f80"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1091041da9750bc35deb128114ea908066b2a75d",
+				"url": "/sonolus/repository/LevelPreview/1091041da9750bc35deb128114ea908066b2a75d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "797925953383c2b89aec35d52e15f4b8564f48af",
+				"url": "/sonolus/repository/LevelData/797925953383c2b89aec35d52e15f4b8564f48af"
+			}
+		},
+		{
+			"name": "ssw-hard-12018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Eternity [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tOPEN\nTitle:\t\t\tEternity [Verse 2]\nDuration:\t1:34.38\nBPM:\t\t89\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t397\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2872a22d4e3181dac0363f8ac2e735c14d383e90",
+				"url": "/sonolus/repository/LevelCover/2872a22d4e3181dac0363f8ac2e735c14d383e90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7ea5f3956751fb6b5b87713fe0efc0c8b362b6d5",
+				"url": "/sonolus/repository/LevelBgm/7ea5f3956751fb6b5b87713fe0efc0c8b362b6d5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "362bce47de987d740ad10eeb30e1291a6a866f9a",
+				"url": "/sonolus/repository/LevelPreview/362bce47de987d740ad10eeb30e1291a6a866f9a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "695e2d203303b564c54545f38187eb616156215a",
+				"url": "/sonolus/repository/LevelData/695e2d203303b564c54545f38187eb616156215a"
+			}
+		},
+		{
+			"name": "ssw-hard-12019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Croquis [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tCroquis [Verse 2]\nDuration:\t1:17.71\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t529\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b6cdb89ec485d3139d3577dc2f617df17b435420",
+				"url": "/sonolus/repository/LevelBgm/b6cdb89ec485d3139d3577dc2f617df17b435420"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "607e327a341dfcb1136253b9c7306c10628f0987",
+				"url": "/sonolus/repository/LevelPreview/607e327a341dfcb1136253b9c7306c10628f0987"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6042eabeee98186c33488128cfe49b9570feb747",
+				"url": "/sonolus/repository/LevelData/6042eabeee98186c33488128cfe49b9570feb747"
+			}
+		},
+		{
+			"name": "ssw-hard-12020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "The Flash"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tThe Flash\nTitle:\t\t\tThe Flash\nDuration:\t1:40.62\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t560\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e4af81ac9a26624bacd94bb07d51e988002b8ced",
+				"url": "/sonolus/repository/LevelCover/e4af81ac9a26624bacd94bb07d51e988002b8ced"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2887bd37db23b0240472e6ab96210dd1f2eb2d2c",
+				"url": "/sonolus/repository/LevelBgm/2887bd37db23b0240472e6ab96210dd1f2eb2d2c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "49fbccac25dac9617fce4ef8c38d2c371c1872bd",
+				"url": "/sonolus/repository/LevelPreview/49fbccac25dac9617fce4ef8c38d2c371c1872bd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0ef736af6f6f6486918f9fd6eb9265eebc4dc4ea",
+				"url": "/sonolus/repository/LevelData/0ef736af6f6f6486918f9fd6eb9265eebc4dc4ea"
+			}
+		},
+		{
+			"name": "ssw-hard-12021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Comet"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tThe Flash\nTitle:\t\t\tComet\nDuration:\t1:27.88\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t486\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e4af81ac9a26624bacd94bb07d51e988002b8ced",
+				"url": "/sonolus/repository/LevelCover/e4af81ac9a26624bacd94bb07d51e988002b8ced"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "154bf2d0174f5f34d1e2538ad679dfc7f35ce6a1",
+				"url": "/sonolus/repository/LevelBgm/154bf2d0174f5f34d1e2538ad679dfc7f35ce6a1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f79e67a081285a0f9091bc8dadf6779c2615fb1b",
+				"url": "/sonolus/repository/LevelPreview/f79e67a081285a0f9091bc8dadf6779c2615fb1b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ff3ab8efa5d265d4a211ca952125f5a52eee4dcd",
+				"url": "/sonolus/repository/LevelData/ff3ab8efa5d265d4a211ca952125f5a52eee4dcd"
+			}
+		},
+		{
+			"name": "ssw-hard-12022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Beautiful Night"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tThe Flash\nTitle:\t\t\tBeautiful Night\nDuration:\t1:18.62\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t509\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e4af81ac9a26624bacd94bb07d51e988002b8ced",
+				"url": "/sonolus/repository/LevelCover/e4af81ac9a26624bacd94bb07d51e988002b8ced"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8c1d1b643363d13a2e75701a18b5087f7a2bfc3a",
+				"url": "/sonolus/repository/LevelBgm/8c1d1b643363d13a2e75701a18b5087f7a2bfc3a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "86e324a7d5d49288db98a33f946f845c388d0e92",
+				"url": "/sonolus/repository/LevelPreview/86e324a7d5d49288db98a33f946f845c388d0e92"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "78f1d0872840bca47cf4e6a49bbcf0884472c16f",
+				"url": "/sonolus/repository/LevelData/78f1d0872840bca47cf4e6a49bbcf0884472c16f"
+			}
+		},
+		{
+			"name": "ssw-hard-12023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Like Heaven (feat Paul Blanco)"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLike Heaven\nTitle:\t\t\tLike Heaven (feat Paul Blanco)\nDuration:\t1:35.00\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t381\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12023"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f74d250427d64aaf63f597ba6c3245289866d39c",
+				"url": "/sonolus/repository/LevelCover/f74d250427d64aaf63f597ba6c3245289866d39c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b5aa38aa0ab5966f7c9fa67d2c5e12f2030fcdcc",
+				"url": "/sonolus/repository/LevelBgm/b5aa38aa0ab5966f7c9fa67d2c5e12f2030fcdcc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f223dd9aa2dad476a403d820b7e3c453b11aeb87",
+				"url": "/sonolus/repository/LevelPreview/f223dd9aa2dad476a403d820b7e3c453b11aeb87"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0c4215169ce1b23b24321ad6c90223d0ab8af476",
+				"url": "/sonolus/repository/LevelData/0c4215169ce1b23b24321ad6c90223d0ab8af476"
+			}
+		},
+		{
+			"name": "ssw-hard-12024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Off"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tColor\nTitle:\t\t\tOff\nDuration:\t1:21.75\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t333\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1634f05d50d92e54b50dc715ace552c379839700",
+				"url": "/sonolus/repository/LevelCover/1634f05d50d92e54b50dc715ace552c379839700"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0f9b8202d7726c6c78d4bd7e832f7554d69d28d5",
+				"url": "/sonolus/repository/LevelBgm/0f9b8202d7726c6c78d4bd7e832f7554d69d28d5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "aa0509c1f5894d1c2c32ed04c875caad9976860a",
+				"url": "/sonolus/repository/LevelPreview/aa0509c1f5894d1c2c32ed04c875caad9976860a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9a6b327733a8b611129b747fbf9f5d1d9dc9e7ae",
+				"url": "/sonolus/repository/LevelData/9a6b327733a8b611129b747fbf9f5d1d9dc9e7ae"
+			}
+		},
+		{
+			"name": "ssw-hard-12025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Simulation [Verse 2]"
+			},
+			"artists": {
+				"en": "Kwon Eunbi"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tKwon Eunbi\nAlbum:\t\tLethality\nTitle:\t\t\tSimulation [Verse 2]\nDuration:\t1:14.86\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t368\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-12011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65a390e5d8a4c93417b2d9de99d0163219c8bf46",
+				"url": "/sonolus/repository/LevelCover/65a390e5d8a4c93417b2d9de99d0163219c8bf46"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "11e230a6bb88708a64cc9d0c4c4534a21e73b4be",
+				"url": "/sonolus/repository/LevelBgm/11e230a6bb88708a64cc9d0c4c4534a21e73b4be"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "30221b7aba7dc63e1302363dc3bae274d3d461d5",
+				"url": "/sonolus/repository/LevelPreview/30221b7aba7dc63e1302363dc3bae274d3d461d5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9eb779611fe7faa5868db8ec52fcfab3afdd2003",
+				"url": "/sonolus/repository/LevelData/9eb779611fe7faa5868db8ec52fcfab3afdd2003"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-12001",
+			"version": 2,
+			"title": {
+				"en": "OPEN default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tOPEN\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6564a75c6cd991bbf5552f3e0546a237c47ac190",
+				"url": "/sonolus/repository/BackgroundThumbnail/6564a75c6cd991bbf5552f3e0546a237c47ac190"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6807e478453a3b463a9a2f572260ac738219ce9c",
+				"url": "/sonolus/repository/BackgroundImage/6807e478453a3b463a9a2f572260ac738219ce9c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-12006",
+			"version": 2,
+			"title": {
+				"en": "Color default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tColor\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "c5aaa481a60b7c77504ced417a16bc273ce62852",
+				"url": "/sonolus/repository/BackgroundThumbnail/c5aaa481a60b7c77504ced417a16bc273ce62852"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3a58dd696db8f7abd9cdb9eb34abbb0205b6c03d",
+				"url": "/sonolus/repository/BackgroundImage/3a58dd696db8f7abd9cdb9eb34abbb0205b6c03d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-12011",
+			"version": 2,
+			"title": {
+				"en": "Lethality default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tLethality\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "06d0ac47f914bcdb6695040b6f07d2e0a7a1a4b3",
+				"url": "/sonolus/repository/BackgroundThumbnail/06d0ac47f914bcdb6695040b6f07d2e0a7a1a4b3"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "28bc8b7d38b8c52d520ec9a8f8a616762309c174",
+				"url": "/sonolus/repository/BackgroundImage/28bc8b7d38b8c52d520ec9a8f8a616762309c174"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-12020",
+			"version": 2,
+			"title": {
+				"en": "The Flash default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tThe Flash\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ccca6fa72af62122f482e867e52efa5245c610d3",
+				"url": "/sonolus/repository/BackgroundThumbnail/ccca6fa72af62122f482e867e52efa5245c610d3"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "586749367e117bde66845527a77fbe62d4c7395c",
+				"url": "/sonolus/repository/BackgroundImage/586749367e117bde66845527a77fbe62d4c7395c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-12023",
+			"version": 2,
+			"title": {
+				"en": "Like Heaven default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tLike Heaven\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "7b82ee935a0a01dcf3b450aee9aff0f0280350af",
+				"url": "/sonolus/repository/BackgroundThumbnail/7b82ee935a0a01dcf3b450aee9aff0f0280350af"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "563903a95053e8846ed4b9b24890b8fea02bb9b0",
+				"url": "/sonolus/repository/BackgroundImage/563903a95053e8846ed4b9b24890b8fea02bb9b0"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "3d00260579cd80bc8cc833ad241f85c78fed3035",
+				"url": "/sonolus/repository/EngineData/3d00260579cd80bc8cc833ad241f85c78fed3035"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

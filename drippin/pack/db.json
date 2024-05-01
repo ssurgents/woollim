@@ -1,0 +1,2501 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Drippin)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssw-hard-10001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "이어달리기 (Relay)"
+			},
+			"artists": {
+				"en": "With Woollim"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tWith Woollim\nAlbum:\t\t이어달리기\nTitle:\t\t\t이어달리기 (Relay)\nDuration:\t1:52.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t548\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-10001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "366725bcfcf107d6b0d042e43bc10efc43ed52c1",
+				"url": "/sonolus/repository/LevelCover/366725bcfcf107d6b0d042e43bc10efc43ed52c1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3ac929a7a0ef2b5be1555171b0023b2da17989b2",
+				"url": "/sonolus/repository/LevelBgm/3ac929a7a0ef2b5be1555171b0023b2da17989b2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "42f2a676409b6b25e376dba665048f63de585a37",
+				"url": "/sonolus/repository/LevelPreview/42f2a676409b6b25e376dba665048f63de585a37"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fadab023d1a2925dca88f5c73e6f4dda380e55f8",
+				"url": "/sonolus/repository/LevelData/fadab023d1a2925dca88f5c73e6f4dda380e55f8"
+			}
+		},
+		{
+			"name": "ssw-hard-10002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "이어달리기 (Relay) [Verse 2]"
+			},
+			"artists": {
+				"en": "With Woollim"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tWith Woollim\nAlbum:\t\t이어달리기\nTitle:\t\t\t이어달리기 (Relay) [Verse 2]\nDuration:\t1:59.43\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t664\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-10002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "cf999bca650979c88cafd0fe679064fa785853f4",
+				"url": "/sonolus/repository/LevelCover/cf999bca650979c88cafd0fe679064fa785853f4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ff478e3636193f10299b96f644c812a953dd1f7c",
+				"url": "/sonolus/repository/LevelBgm/ff478e3636193f10299b96f644c812a953dd1f7c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e7f8fd5d25e89d936b9665eb8855683d91ae16b9",
+				"url": "/sonolus/repository/LevelPreview/e7f8fd5d25e89d936b9665eb8855683d91ae16b9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dba6483610f4f7b7223f10d967a0c28d343b17de",
+				"url": "/sonolus/repository/LevelData/dba6483610f4f7b7223f10d967a0c28d343b17de"
+			}
+		},
+		{
+			"name": "ssw-hard-11001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Nostalgia"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\tNostalgia\nDuration:\t1:20.35\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t505\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e36e64bccf87521c5cf136e69a45cbd90866c032",
+				"url": "/sonolus/repository/LevelBgm/e36e64bccf87521c5cf136e69a45cbd90866c032"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "62366a1368c6573bcc1e6ff5243e13131765708f",
+				"url": "/sonolus/repository/LevelPreview/62366a1368c6573bcc1e6ff5243e13131765708f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8a297483d4766c532ad0ecbd51d6039096642972",
+				"url": "/sonolus/repository/LevelData/8a297483d4766c532ad0ecbd51d6039096642972"
+			}
+		},
+		{
+			"name": "ssw-hard-11002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Shine"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\tShine\nDuration:\t1:27.39\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t515\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "08a458ac1fba7ebe01b7b62684965d382d6ef13a",
+				"url": "/sonolus/repository/LevelBgm/08a458ac1fba7ebe01b7b62684965d382d6ef13a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7f79fd1cefff4e20379503559a56d6eadbd886d8",
+				"url": "/sonolus/repository/LevelPreview/7f79fd1cefff4e20379503559a56d6eadbd886d8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "68c3e9c505eb83a1a6e521596d8d1a6304219e9e",
+				"url": "/sonolus/repository/LevelData/68c3e9c505eb83a1a6e521596d8d1a6304219e9e"
+			}
+		},
+		{
+			"name": "ssw-hard-11003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "물들여 (Colors)"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\t물들여 (Colors)\nDuration:\t1:25.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t455\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3c8091a7b83bca48d41d459c135788ee9bc83a0a",
+				"url": "/sonolus/repository/LevelBgm/3c8091a7b83bca48d41d459c135788ee9bc83a0a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "868dc8277a1e8d9a7d4d5c5a083543fcf58cdc28",
+				"url": "/sonolus/repository/LevelPreview/868dc8277a1e8d9a7d4d5c5a083543fcf58cdc28"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "017b6e840b547fe9597d31edd535fe29e57c4265",
+				"url": "/sonolus/repository/LevelData/017b6e840b547fe9597d31edd535fe29e57c4265"
+			}
+		},
+		{
+			"name": "ssw-hard-11004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Overdrive"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\tOverdrive\nDuration:\t1:25.85\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t510\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2bfeed46f61668367d4300f65762960f9715199c",
+				"url": "/sonolus/repository/LevelBgm/2bfeed46f61668367d4300f65762960f9715199c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "93b4ec8290b6917bb0245c30cd6e7ac6013b5476",
+				"url": "/sonolus/repository/LevelPreview/93b4ec8290b6917bb0245c30cd6e7ac6013b5476"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "17dab05e392c9469ba9ee436a974d62fbe8bf2c7",
+				"url": "/sonolus/repository/LevelData/17dab05e392c9469ba9ee436a974d62fbe8bf2c7"
+			}
+		},
+		{
+			"name": "ssw-hard-11005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Young Blood"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tA BETTER TOMORROW\nTitle:\t\t\tYoung Blood\nDuration:\t1:27.36\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t527\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e",
+				"url": "/sonolus/repository/LevelCover/0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "db1e5a6fb8b2c67465ca2cdd7a80845aac86dd27",
+				"url": "/sonolus/repository/LevelBgm/db1e5a6fb8b2c67465ca2cdd7a80845aac86dd27"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c4c97f11273a038b8a0dae254c15de82572b8031",
+				"url": "/sonolus/repository/LevelPreview/c4c97f11273a038b8a0dae254c15de82572b8031"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a66153c5d5e303d8fbf87f5827b07e90b5b9ad0a",
+				"url": "/sonolus/repository/LevelData/a66153c5d5e303d8fbf87f5827b07e90b5b9ad0a"
+			}
+		},
+		{
+			"name": "ssw-hard-11006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "빛 (Light)"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\t빛 (Light)\nDuration:\t1:42.71\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t563\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2593babfcb33963b18aac1d49741b23b10aa826b",
+				"url": "/sonolus/repository/LevelBgm/2593babfcb33963b18aac1d49741b23b10aa826b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "34d43d5cef30c84a0307d48ed3c2a647c9ba051b",
+				"url": "/sonolus/repository/LevelPreview/34d43d5cef30c84a0307d48ed3c2a647c9ba051b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2b9bc8fc0067abf1e386e841052ddd286991ae68",
+				"url": "/sonolus/repository/LevelData/2b9bc8fc0067abf1e386e841052ddd286991ae68"
+			}
+		},
+		{
+			"name": "ssw-hard-11007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Nostalgia [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\tNostalgia [Verse 2]\nDuration:\t1:22.44\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t443\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8650d6aa4664474f604dbf740dd2611f56f6ac76",
+				"url": "/sonolus/repository/LevelBgm/8650d6aa4664474f604dbf740dd2611f56f6ac76"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "37a9b16ca2cf2e3da403f877f31ad7fb6d8ae989",
+				"url": "/sonolus/repository/LevelPreview/37a9b16ca2cf2e3da403f877f31ad7fb6d8ae989"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8cc024fb1ba9652159e992a036babbca39a5e76d",
+				"url": "/sonolus/repository/LevelData/8cc024fb1ba9652159e992a036babbca39a5e76d"
+			}
+		},
+		{
+			"name": "ssw-hard-11008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "FATE"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tA BETTER TOMORROW\nTitle:\t\t\tFATE\nDuration:\t1:44.09\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t562\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e",
+				"url": "/sonolus/repository/LevelCover/0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0a6385b26f622e5025168a35c9ce6b152e311169",
+				"url": "/sonolus/repository/LevelBgm/0a6385b26f622e5025168a35c9ce6b152e311169"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "82f26e2ca9e7289e59678d5e532bae4c4da6b44c",
+				"url": "/sonolus/repository/LevelPreview/82f26e2ca9e7289e59678d5e532bae4c4da6b44c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "10ab40bff5809073527fa3d23a42a0d3783763bf",
+				"url": "/sonolus/repository/LevelData/10ab40bff5809073527fa3d23a42a0d3783763bf"
+			}
+		},
+		{
+			"name": "ssw-hard-11009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Free Pass"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tFree Pass\nTitle:\t\t\tFree Pass\nDuration:\t1:26.74\nBPM:\t\t101\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t498\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bae68a737621541c382484231007883d7d0948b0",
+				"url": "/sonolus/repository/LevelCover/bae68a737621541c382484231007883d7d0948b0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8e9d9bad1118ab78ad05be82483b04117c9b8286",
+				"url": "/sonolus/repository/LevelBgm/8e9d9bad1118ab78ad05be82483b04117c9b8286"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b33c6ab6fd20a337719c0840b241b451f72e9d89",
+				"url": "/sonolus/repository/LevelPreview/b33c6ab6fd20a337719c0840b241b451f72e9d89"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cd159b0fcbfc9022b9826996b9840e1c5f9a74ad",
+				"url": "/sonolus/repository/LevelData/cd159b0fcbfc9022b9826996b9840e1c5f9a74ad"
+			}
+		},
+		{
+			"name": "ssw-hard-11010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너의 소원 안에 내가 있었으면 해 (WISH)"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tFree Pass\nTitle:\t\t\t너의 소원 안에 내가 있었으면 해 (WISH)\nDuration:\t1:27.69\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t567\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bae68a737621541c382484231007883d7d0948b0",
+				"url": "/sonolus/repository/LevelCover/bae68a737621541c382484231007883d7d0948b0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cbd65c075228e7e3a9be7d002de3aa983e732e86",
+				"url": "/sonolus/repository/LevelBgm/cbd65c075228e7e3a9be7d002de3aa983e732e86"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0f4fb28d5986f795a847ce301046807116199d5a",
+				"url": "/sonolus/repository/LevelPreview/0f4fb28d5986f795a847ce301046807116199d5a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "39041f7aec9bf006219fe4b3dcf068dd67ecb687",
+				"url": "/sonolus/repository/LevelData/39041f7aec9bf006219fe4b3dcf068dd67ecb687"
+			}
+		},
+		{
+			"name": "ssw-hard-11011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Shine [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\tShine [Verse 2]\nDuration:\t1:41.74\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t505\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e5ad1bb59994136a3c5f98f9976e501bcd735bf5",
+				"url": "/sonolus/repository/LevelBgm/e5ad1bb59994136a3c5f98f9976e501bcd735bf5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d9f89a215812d8c5061d8389bf70efe139cdeddb",
+				"url": "/sonolus/repository/LevelPreview/d9f89a215812d8c5061d8389bf70efe139cdeddb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2b4f8559df60971bc209f100a169aa7b52d560cc",
+				"url": "/sonolus/repository/LevelData/2b4f8559df60971bc209f100a169aa7b52d560cc"
+			}
+		},
+		{
+			"name": "ssw-hard-11012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "물들여 (Colors) [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tBoyager\nTitle:\t\t\t물들여 (Colors) [Verse 2]\nDuration:\t1:33.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t506\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9271c3217c3b2fad8bf7ac045304fd129da86dcf",
+				"url": "/sonolus/repository/LevelCover/9271c3217c3b2fad8bf7ac045304fd129da86dcf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ac38f82e2d6eb1b281b06b35b25de40044f53920",
+				"url": "/sonolus/repository/LevelBgm/ac38f82e2d6eb1b281b06b35b25de40044f53920"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0bd9b9024ed9fe5f4c2b23042f4da5ab22c824e4",
+				"url": "/sonolus/repository/LevelPreview/0bd9b9024ed9fe5f4c2b23042f4da5ab22c824e4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d888e2510e896678782910bbc1b3783d6e4b1c25",
+				"url": "/sonolus/repository/LevelData/d888e2510e896678782910bbc1b3783d6e4b1c25"
+			}
+		},
+		{
+			"name": "ssw-hard-11013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Firefly"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tA BETTER TOMORROW\nTitle:\t\t\tFirefly\nDuration:\t1:36.71\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t474\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e",
+				"url": "/sonolus/repository/LevelCover/0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1d1baf41017624eadf62d4eb319a8e1f1e7ead23",
+				"url": "/sonolus/repository/LevelBgm/1d1baf41017624eadf62d4eb319a8e1f1e7ead23"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "eb98ddecfd126d595c7d9154cb39d1028802e082",
+				"url": "/sonolus/repository/LevelPreview/eb98ddecfd126d595c7d9154cb39d1028802e082"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d4a065ccfb3aefc582fd9ea6811aa9536e4044bf",
+				"url": "/sonolus/repository/LevelData/d4a065ccfb3aefc582fd9ea6811aa9536e4044bf"
+			}
+		},
+		{
+			"name": "ssw-hard-11014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "STAY"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tFree Pass\nTitle:\t\t\tSTAY\nDuration:\t1:20.36\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t405\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bae68a737621541c382484231007883d7d0948b0",
+				"url": "/sonolus/repository/LevelCover/bae68a737621541c382484231007883d7d0948b0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ff7c0dfcf280b21354b96fee4ee19d3946d77a49",
+				"url": "/sonolus/repository/LevelBgm/ff7c0dfcf280b21354b96fee4ee19d3946d77a49"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fa0275daf4bc54ee0d9fdaddadb2b74de835eed9",
+				"url": "/sonolus/repository/LevelPreview/fa0275daf4bc54ee0d9fdaddadb2b74de835eed9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c4373b6aee481d4f25262abbd3cb396c08003fff",
+				"url": "/sonolus/repository/LevelData/c4373b6aee481d4f25262abbd3cb396c08003fff"
+			}
+		},
+		{
+			"name": "ssw-hard-11015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Without U"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tA BETTER TOMORROW\nTitle:\t\t\tWithout U\nDuration:\t1:30.00\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t478\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e",
+				"url": "/sonolus/repository/LevelCover/0d1287b1f2c041d775d3dbd0a2ef116cbcda6f8e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d85c16717102283209d29b688d88fa1c8ad6d0d7",
+				"url": "/sonolus/repository/LevelBgm/d85c16717102283209d29b688d88fa1c8ad6d0d7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5106c3dff75a688b8935e33d6d6a1128e39532e1",
+				"url": "/sonolus/repository/LevelPreview/5106c3dff75a688b8935e33d6d6a1128e39532e1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dabc7fe3226b5698fd65155ec01878a84e3352ba",
+				"url": "/sonolus/repository/LevelData/dabc7fe3226b5698fd65155ec01878a84e3352ba"
+			}
+		},
+		{
+			"name": "ssw-hard-11016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Villain"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tVillain\nDuration:\t1:20.38\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t480\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e19e085f621f0f0c5b5c1ce2a135e8a1c1688b8e",
+				"url": "/sonolus/repository/LevelBgm/e19e085f621f0f0c5b5c1ce2a135e8a1c1688b8e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "13a49aa2616c172ea53b610dde98dd8cb260a691",
+				"url": "/sonolus/repository/LevelPreview/13a49aa2616c172ea53b610dde98dd8cb260a691"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4973e61db0822d149ba5be43bb172f6173dc25f6",
+				"url": "/sonolus/repository/LevelData/4973e61db0822d149ba5be43bb172f6173dc25f6"
+			}
+		},
+		{
+			"name": "ssw-hard-11017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Switch"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tSwitch\nDuration:\t1:33.22\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t595\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "29975e6487e2e641c0abd18fdc72ab6f3709d49b",
+				"url": "/sonolus/repository/LevelBgm/29975e6487e2e641c0abd18fdc72ab6f3709d49b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "956c5f01a2b17c85afeb4448468562927704fdc1",
+				"url": "/sonolus/repository/LevelPreview/956c5f01a2b17c85afeb4448468562927704fdc1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5e594bafe0cdde8bd6bd540ade073ee85fe0645b",
+				"url": "/sonolus/repository/LevelData/5e594bafe0cdde8bd6bd540ade073ee85fe0645b"
+			}
+		},
+		{
+			"name": "ssw-hard-11018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Remember"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tRemember\nDuration:\t1:44.84\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t624\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f8b63021bf32881cbe515331e974b280d81e811c",
+				"url": "/sonolus/repository/LevelBgm/f8b63021bf32881cbe515331e974b280d81e811c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f6076a1cc7a13faba43203e75bd02f3cef6b6b09",
+				"url": "/sonolus/repository/LevelPreview/f6076a1cc7a13faba43203e75bd02f3cef6b6b09"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ccaf9b71de9fdfe781397150c59b19519cb2ad35",
+				"url": "/sonolus/repository/LevelData/ccaf9b71de9fdfe781397150c59b19519cb2ad35"
+			}
+		},
+		{
+			"name": "ssw-hard-11019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "SHY"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tSHY\nDuration:\t1:21.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t488\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b488eb2fa742cfa6364ecd4a7fa8ea4f3f603597",
+				"url": "/sonolus/repository/LevelBgm/b488eb2fa742cfa6364ecd4a7fa8ea4f3f603597"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0f7a84843553507d2ff162af7cd59a9098dfde9c",
+				"url": "/sonolus/repository/LevelPreview/0f7a84843553507d2ff162af7cd59a9098dfde9c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "471497215cfc27f6d808015f5178fd06c02e4893",
+				"url": "/sonolus/repository/LevelData/471497215cfc27f6d808015f5178fd06c02e4893"
+			}
+		},
+		{
+			"name": "ssw-hard-11020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ZERO"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: ZERO\nTitle:\t\t\tZERO\nDuration:\t1:39.50\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t876\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0fc7ea93350acd40e4f9caddabbeb5a9370bf52e",
+				"url": "/sonolus/repository/LevelCover/0fc7ea93350acd40e4f9caddabbeb5a9370bf52e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "007e5b3780993b575c45c5fea45584c1d7a9b23f",
+				"url": "/sonolus/repository/LevelBgm/007e5b3780993b575c45c5fea45584c1d7a9b23f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "16516baabc022d9fc51caa5c7800840e3655f080",
+				"url": "/sonolus/repository/LevelPreview/16516baabc022d9fc51caa5c7800840e3655f080"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fc482e20d80f6169a1cd0b8e8fb681911a1b35fd",
+				"url": "/sonolus/repository/LevelData/fc482e20d80f6169a1cd0b8e8fb681911a1b35fd"
+			}
+		},
+		{
+			"name": "ssw-hard-11021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "GAME"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: ZERO\nTitle:\t\t\tGAME\nDuration:\t1:19.20\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t474\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0fc7ea93350acd40e4f9caddabbeb5a9370bf52e",
+				"url": "/sonolus/repository/LevelCover/0fc7ea93350acd40e4f9caddabbeb5a9370bf52e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "877f69d9cc30898dd9275c5af1a265681539f82c",
+				"url": "/sonolus/repository/LevelBgm/877f69d9cc30898dd9275c5af1a265681539f82c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ed4995e40af28d69e73f74b8729e6a74192e3dc7",
+				"url": "/sonolus/repository/LevelPreview/ed4995e40af28d69e73f74b8729e6a74192e3dc7"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b941932033e200f4eac9a0c03a992380405c4c33",
+				"url": "/sonolus/repository/LevelData/b941932033e200f4eac9a0c03a992380405c4c33"
+			}
+		},
+		{
+			"name": "ssw-hard-11022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Delusion"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tDelusion\nDuration:\t1:30.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t635\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4bd804b2d3bbe40d2acb2e6a7d45632d1aaacd88",
+				"url": "/sonolus/repository/LevelBgm/4bd804b2d3bbe40d2acb2e6a7d45632d1aaacd88"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "801f39ce2e47897b8d60eccbdcd4216bdbe7dcb6",
+				"url": "/sonolus/repository/LevelPreview/801f39ce2e47897b8d60eccbdcd4216bdbe7dcb6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e91b75bad8d692ed9052822d76b0efb30ebc5231",
+				"url": "/sonolus/repository/LevelData/e91b75bad8d692ed9052822d76b0efb30ebc5231"
+			}
+		},
+		{
+			"name": "ssw-hard-11023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Trick and Treat"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: ZERO\nTitle:\t\t\tTrick and Treat\nDuration:\t1:27.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t503\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11020"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0fc7ea93350acd40e4f9caddabbeb5a9370bf52e",
+				"url": "/sonolus/repository/LevelCover/0fc7ea93350acd40e4f9caddabbeb5a9370bf52e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "40d94a9259a50d44f19af50eaa03108f320d18f5",
+				"url": "/sonolus/repository/LevelBgm/40d94a9259a50d44f19af50eaa03108f320d18f5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7e1b0ca02515b058b4513521c454c8a0ebb10eb9",
+				"url": "/sonolus/repository/LevelPreview/7e1b0ca02515b058b4513521c454c8a0ebb10eb9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1a5f8e2fedf0f35841fcc847faa403d778d92ea7",
+				"url": "/sonolus/repository/LevelData/1a5f8e2fedf0f35841fcc847faa403d778d92ea7"
+			}
+		},
+		{
+			"name": "ssw-hard-11024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "The One"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tThe One\nDuration:\t1:26.12\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t502\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f7f79bc557eef152d9fcf814a011956df36f0dc6",
+				"url": "/sonolus/repository/LevelBgm/f7f79bc557eef152d9fcf814a011956df36f0dc6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "79eab5fd3b8ec10c7cf77f1483942d88c7fb84f5",
+				"url": "/sonolus/repository/LevelPreview/79eab5fd3b8ec10c7cf77f1483942d88c7fb84f5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1e9ef02e5b42c82c8e97be9ee4ca224a3206e83c",
+				"url": "/sonolus/repository/LevelData/1e9ef02e5b42c82c8e97be9ee4ca224a3206e83c"
+			}
+		},
+		{
+			"name": "ssw-hard-11025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "MONSTER"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tMONSTER\nDuration:\t1:18.46\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t518\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ab8ffa3aeac11df4f3862e03dc74b87d2eee047b",
+				"url": "/sonolus/repository/LevelBgm/ab8ffa3aeac11df4f3862e03dc74b87d2eee047b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e08bed4d9607eb3f62704b6696f89b2d2ac32201",
+				"url": "/sonolus/repository/LevelPreview/e08bed4d9607eb3f62704b6696f89b2d2ac32201"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ec411b89bdc0e5276841be21cd4ea8bff3e14eab",
+				"url": "/sonolus/repository/LevelData/ec411b89bdc0e5276841be21cd4ea8bff3e14eab"
+			}
+		},
+		{
+			"name": "ssw-hard-11026",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HOME"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tHOME\nDuration:\t1:18.95\nBPM:\t\t152\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t364\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0bce5ea4538865ee90c0f5973306c5643d415c84",
+				"url": "/sonolus/repository/LevelBgm/0bce5ea4538865ee90c0f5973306c5643d415c84"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "932188e383f535a21bc014fd1415e5246c18038b",
+				"url": "/sonolus/repository/LevelPreview/932188e383f535a21bc014fd1415e5246c18038b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "918c57136e9adeda0895b88a2c0e2ea57617db95",
+				"url": "/sonolus/repository/LevelData/918c57136e9adeda0895b88a2c0e2ea57617db95"
+			}
+		},
+		{
+			"name": "ssw-hard-11027",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "UTOPIA"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tUTOPIA\nDuration:\t1:57.92\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t815\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d053df2e74b232fb23c84f18e6c3ed76f3560cd5",
+				"url": "/sonolus/repository/LevelBgm/d053df2e74b232fb23c84f18e6c3ed76f3560cd5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "16aa62df87523239562c3993857eede3c62c9230",
+				"url": "/sonolus/repository/LevelPreview/16aa62df87523239562c3993857eede3c62c9230"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "178c183fe13b3c495b49e5e73fbfd2abc9ed4e88",
+				"url": "/sonolus/repository/LevelData/178c183fe13b3c495b49e5e73fbfd2abc9ed4e88"
+			}
+		},
+		{
+			"name": "ssw-hard-11028",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "When I'm With You"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tWhen I'm With You\nDuration:\t1:26.18\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t477\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "525f7aa58f33f1b46b6bd4fcdc930e36d3b2b35c",
+				"url": "/sonolus/repository/LevelBgm/525f7aa58f33f1b46b6bd4fcdc930e36d3b2b35c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5e9e45bcc9030cb526d7f6dc0d50d858a8b8d86a",
+				"url": "/sonolus/repository/LevelPreview/5e9e45bcc9030cb526d7f6dc0d50d858a8b8d86a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "22fe0f40e5d3089c7a06fa08c7e7e3c1c7080ae8",
+				"url": "/sonolus/repository/LevelData/22fe0f40e5d3089c7a06fa08c7e7e3c1c7080ae8"
+			}
+		},
+		{
+			"name": "ssw-hard-11029",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너의 소원 안에 내가 있었으면 해 (WISH) [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tFree Pass\nTitle:\t\t\t너의 소원 안에 내가 있었으면 해 (WISH) [Verse 2]\nDuration:\t1:27.69\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t554\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bae68a737621541c382484231007883d7d0948b0",
+				"url": "/sonolus/repository/LevelCover/bae68a737621541c382484231007883d7d0948b0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8f8483a2723a37556074edf1cb6f15c0e0b60070",
+				"url": "/sonolus/repository/LevelBgm/8f8483a2723a37556074edf1cb6f15c0e0b60070"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2328b3b422ddbd6788ddc727dfdec8aed1a2a283",
+				"url": "/sonolus/repository/LevelPreview/2328b3b422ddbd6788ddc727dfdec8aed1a2a283"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "333978704fc24dc99a456784cd131f69d1b82932",
+				"url": "/sonolus/repository/LevelData/333978704fc24dc99a456784cd131f69d1b82932"
+			}
+		},
+		{
+			"name": "ssw-hard-11030",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "SHY [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tSHY [Verse 2]\nDuration:\t1:26.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t507\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "05ca71fd7c1d45a8c0e23ff2520442bfdc8ed740",
+				"url": "/sonolus/repository/LevelBgm/05ca71fd7c1d45a8c0e23ff2520442bfdc8ed740"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "81879919b8dce533d2fe350e67bb3d6bfe1a04dc",
+				"url": "/sonolus/repository/LevelPreview/81879919b8dce533d2fe350e67bb3d6bfe1a04dc"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a8bb4d1b16c886da83d398791673b14a2a52c90a",
+				"url": "/sonolus/repository/LevelData/a8bb4d1b16c886da83d398791673b14a2a52c90a"
+			}
+		},
+		{
+			"name": "ssw-hard-11031",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Remember [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tRemember [Verse 2]\nDuration:\t1:48.63\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t751\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "fa1d66f05d60a18386578e429759a8543bcb17ff",
+				"url": "/sonolus/repository/LevelBgm/fa1d66f05d60a18386578e429759a8543bcb17ff"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "47f6971822d14ea5042821172a1b81692f4027f2",
+				"url": "/sonolus/repository/LevelPreview/47f6971822d14ea5042821172a1b81692f4027f2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f69bdd6a0fe9c37faa19db25625d551a3ab632f4",
+				"url": "/sonolus/repository/LevelData/f69bdd6a0fe9c37faa19db25625d551a3ab632f4"
+			}
+		},
+		{
+			"name": "ssw-hard-11032",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "DEJA VU"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain: The End\nTitle:\t\t\tDEJA VU\nDuration:\t1:32.12\nBPM:\t\t99\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t445\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11024"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a34c5847ff07afe11b6f8e10bdabe63fae9dfadb",
+				"url": "/sonolus/repository/LevelCover/a34c5847ff07afe11b6f8e10bdabe63fae9dfadb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "13333da76ec5468931c11534dbc1afdeb14798e7",
+				"url": "/sonolus/repository/LevelBgm/13333da76ec5468931c11534dbc1afdeb14798e7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "491e95cb9a4a1e13041b9c4a036d5975ce0e964f",
+				"url": "/sonolus/repository/LevelPreview/491e95cb9a4a1e13041b9c4a036d5975ce0e964f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b0b5629d8875f67681a164a6416efa68fd224c1a",
+				"url": "/sonolus/repository/LevelData/b0b5629d8875f67681a164a6416efa68fd224c1a"
+			}
+		},
+		{
+			"name": "ssw-hard-11033",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Villain [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN\nAlbum:\t\tVillain\nTitle:\t\t\tVillain [Verse 2]\nDuration:\t1:15.84\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t432\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-11016"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f529494af58e6c84854e89ac9100463c43b37e10",
+				"url": "/sonolus/repository/LevelCover/f529494af58e6c84854e89ac9100463c43b37e10"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "dce2be0f0bffc5f47d2a161e16db7441da81ee42",
+				"url": "/sonolus/repository/LevelBgm/dce2be0f0bffc5f47d2a161e16db7441da81ee42"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fb807489c40b6b4c0a981551a047b43752af4037",
+				"url": "/sonolus/repository/LevelPreview/fb807489c40b6b4c0a981551a047b43752af4037"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "77525a380da9b0a819d4e8361f9ab385fdeeb9bf",
+				"url": "/sonolus/repository/LevelData/77525a380da9b0a819d4e8361f9ab385fdeeb9bf"
+			}
+		},
+		{
+			"name": "ssw-hard-15001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "SEVEN SINS"
+			},
+			"artists": {
+				"en": "DRIPPIN (SEVEN SINS)"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN (SEVEN SINS)\nAlbum:\t\tSEVEN SINS\nTitle:\t\t\tSEVEN SINS\nDuration:\t1:41.40\nBPM:\t\t129\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t560\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-15001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5bbe5669afeb013e7b6d3fd1d263886eafdacb59",
+				"url": "/sonolus/repository/LevelCover/5bbe5669afeb013e7b6d3fd1d263886eafdacb59"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "db4d03aa89be39cb321f938b68a74c0a15263fe1",
+				"url": "/sonolus/repository/LevelBgm/db4d03aa89be39cb321f938b68a74c0a15263fe1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1621378a9316bb9297e78ecfce3ac7c065d88480",
+				"url": "/sonolus/repository/LevelPreview/1621378a9316bb9297e78ecfce3ac7c065d88480"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bdd692a103a644ff922b73203829d4fbe8bd00da",
+				"url": "/sonolus/repository/LevelData/bdd692a103a644ff922b73203829d4fbe8bd00da"
+			}
+		},
+		{
+			"name": "ssw-hard-15002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "STEREO"
+			},
+			"artists": {
+				"en": "DRIPPIN (SEVEN SINS)"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN (SEVEN SINS)\nAlbum:\t\tSEVEN SINS\nTitle:\t\t\tSTEREO\nDuration:\t1:38.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t660\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-15001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5bbe5669afeb013e7b6d3fd1d263886eafdacb59",
+				"url": "/sonolus/repository/LevelCover/5bbe5669afeb013e7b6d3fd1d263886eafdacb59"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b0a75bb3cd29f0a30574ae9ef1188ab3a4763232",
+				"url": "/sonolus/repository/LevelBgm/b0a75bb3cd29f0a30574ae9ef1188ab3a4763232"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "278e33f8b10e0fb1d5906564f616089f1c2cf449",
+				"url": "/sonolus/repository/LevelPreview/278e33f8b10e0fb1d5906564f616089f1c2cf449"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5d7921963da2f10d3d63ba401d6a10d770cb0a7d",
+				"url": "/sonolus/repository/LevelData/5d7921963da2f10d3d63ba401d6a10d770cb0a7d"
+			}
+		},
+		{
+			"name": "ssw-hard-15003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "BAD BLOOD"
+			},
+			"artists": {
+				"en": "DRIPPIN (SEVEN SINS)"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN (SEVEN SINS)\nAlbum:\t\tSEVEN SINS\nTitle:\t\t\tBAD BLOOD\nDuration:\t1:21.64\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t440\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-15001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5bbe5669afeb013e7b6d3fd1d263886eafdacb59",
+				"url": "/sonolus/repository/LevelCover/5bbe5669afeb013e7b6d3fd1d263886eafdacb59"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9f4bd761c62c5f4eadaa2007a78667ab5421a55b",
+				"url": "/sonolus/repository/LevelBgm/9f4bd761c62c5f4eadaa2007a78667ab5421a55b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7913cde3340e307fb803fd1ca16785c26b3042d0",
+				"url": "/sonolus/repository/LevelPreview/7913cde3340e307fb803fd1ca16785c26b3042d0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "21d2c03ce0a50bc7a455bd9df8bc693f59641ce9",
+				"url": "/sonolus/repository/LevelData/21d2c03ce0a50bc7a455bd9df8bc693f59641ce9"
+			}
+		},
+		{
+			"name": "ssw-hard-15004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "STEREO [Verse 2]"
+			},
+			"artists": {
+				"en": "DRIPPIN (SEVEN SINS)"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tDRIPPIN (SEVEN SINS)\nAlbum:\t\tSEVEN SINS\nTitle:\t\t\tSTEREO [Verse 2]\nDuration:\t1:41.60\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Woollim\nMode:\thard\nNotes:\t621\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssw-ingame-15001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5bbe5669afeb013e7b6d3fd1d263886eafdacb59",
+				"url": "/sonolus/repository/LevelCover/5bbe5669afeb013e7b6d3fd1d263886eafdacb59"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c5f8dbd8cf741d78f069d6fbdad2e327db6431f4",
+				"url": "/sonolus/repository/LevelBgm/c5f8dbd8cf741d78f069d6fbdad2e327db6431f4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "73035019ba16a03b24a91536d225290aa353099b",
+				"url": "/sonolus/repository/LevelPreview/73035019ba16a03b24a91536d225290aa353099b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2fd1fe5ffa3798bf023bf278f6da52f235a0bfcc",
+				"url": "/sonolus/repository/LevelData/2fd1fe5ffa3798bf023bf278f6da52f235a0bfcc"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-10001",
+			"version": 2,
+			"title": {
+				"en": "이어달리기 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t이어달리기\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5628b4f1bf2cfe7015c2502cff5dadf2a986768f",
+				"url": "/sonolus/repository/BackgroundThumbnail/5628b4f1bf2cfe7015c2502cff5dadf2a986768f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "335fb5509b915fb65220447c86918d518ea5925b",
+				"url": "/sonolus/repository/BackgroundImage/335fb5509b915fb65220447c86918d518ea5925b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-10002",
+			"version": 2,
+			"title": {
+				"en": "이어달리기 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\t이어달리기\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "404800174dfe41585ab293ee361f55e8e3ec1460",
+				"url": "/sonolus/repository/BackgroundThumbnail/404800174dfe41585ab293ee361f55e8e3ec1460"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "0fc30d93d448794f6e9d4b35ddd3c7441163fcb6",
+				"url": "/sonolus/repository/BackgroundImage/0fc30d93d448794f6e9d4b35ddd3c7441163fcb6"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11001",
+			"version": 2,
+			"title": {
+				"en": "Boyager default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tBoyager\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a21accc9e5ea12e7cba97299ab7b159c49b94030",
+				"url": "/sonolus/repository/BackgroundThumbnail/a21accc9e5ea12e7cba97299ab7b159c49b94030"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "82356ab25a57b05778dd0259fcf0996c0855a6ae",
+				"url": "/sonolus/repository/BackgroundImage/82356ab25a57b05778dd0259fcf0996c0855a6ae"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11005",
+			"version": 2,
+			"title": {
+				"en": "A BETTER TOMORROW default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tA BETTER TOMORROW\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "82af00e5a0b776dfba6b6cd520e28a6567d312e9",
+				"url": "/sonolus/repository/BackgroundThumbnail/82af00e5a0b776dfba6b6cd520e28a6567d312e9"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6bf5959b31acd729e420cafe72503146052ffb42",
+				"url": "/sonolus/repository/BackgroundImage/6bf5959b31acd729e420cafe72503146052ffb42"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11009",
+			"version": 2,
+			"title": {
+				"en": "Free Pass default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tFree Pass\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d9ee4575aaa61cdd58851d8250d77107221f66ab",
+				"url": "/sonolus/repository/BackgroundThumbnail/d9ee4575aaa61cdd58851d8250d77107221f66ab"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a714b006c94d87d1986c97192023388a4867a8db",
+				"url": "/sonolus/repository/BackgroundImage/a714b006c94d87d1986c97192023388a4867a8db"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11016",
+			"version": 2,
+			"title": {
+				"en": "Villain default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tVillain\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "f3113bdd624abf31f3bd810e47e99227abd9feb6",
+				"url": "/sonolus/repository/BackgroundThumbnail/f3113bdd624abf31f3bd810e47e99227abd9feb6"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "277a24a689131549b9247aec993f80e5c6a67e32",
+				"url": "/sonolus/repository/BackgroundImage/277a24a689131549b9247aec993f80e5c6a67e32"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11020",
+			"version": 2,
+			"title": {
+				"en": "Villain: ZERO default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tVillain: ZERO\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a037c13e3cd902f00dc8d1b7f556daf95ad7b768",
+				"url": "/sonolus/repository/BackgroundThumbnail/a037c13e3cd902f00dc8d1b7f556daf95ad7b768"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "24e788fda970f053d7d311860e9be3304a36bd3b",
+				"url": "/sonolus/repository/BackgroundImage/24e788fda970f053d7d311860e9be3304a36bd3b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-11024",
+			"version": 2,
+			"title": {
+				"en": "Villain: The End default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tVillain: The End\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a3fb2e49aafa93aedd5e64636224065c22df687f",
+				"url": "/sonolus/repository/BackgroundThumbnail/a3fb2e49aafa93aedd5e64636224065c22df687f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "b6b2cc3d258af91323b6039c7125490561792d8a",
+				"url": "/sonolus/repository/BackgroundImage/b6b2cc3d258af91323b6039c7125490561792d8a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssw-ingame-15001",
+			"version": 2,
+			"title": {
+				"en": "SEVEN SINS default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Woollim"
+			},
+			"description": {
+				"en": "\nAlbum:\tSEVEN SINS\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ebb658abfe72cee5050d26bb59eaabf66eb92f2d",
+				"url": "/sonolus/repository/BackgroundThumbnail/ebb658abfe72cee5050d26bb59eaabf66eb92f2d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "000cc955539008b8df882454fee40579aa407e24",
+				"url": "/sonolus/repository/BackgroundImage/000cc955539008b8df882454fee40579aa407e24"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "3d00260579cd80bc8cc833ad241f85c78fed3035",
+				"url": "/sonolus/repository/EngineData/3d00260579cd80bc8cc833ad241f85c78fed3035"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}
